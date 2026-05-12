@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+apps/*/node_modules
+apps/*/dist
