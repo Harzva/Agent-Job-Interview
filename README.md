@@ -59,6 +59,75 @@
   </tr>
 </table>
 
+## 更多页面截图
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/readme/interview-general.png" alt="通用题库页面">
+      <br>
+      <strong>通用题库</strong>
+      <br>
+      500+ 道通用面试题，支持分类筛选、问答题模式、选择题模式和模拟面试。
+    </td>
+    <td width="50%">
+      <img src="assets/readme/interview-deepseek-company.png" alt="DeepSeek 公司专项页面">
+      <br>
+      <strong>DeepSeek 公司专项</strong>
+      <br>
+      展示 Agent 岗位、薪资范围、技能标签和专项面试题。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/readme/interview-huawei.png" alt="华为公司专项页面">
+      <br>
+      <strong>华为公司专项</strong>
+      <br>
+      企业级 Agent、端侧 Agent、记忆管理和自主决策方向题库。
+    </td>
+    <td width="50%">
+      <img src="assets/readme/interview-bytedance.png" alt="字节跳动公司专项页面">
+      <br>
+      <strong>字节跳动公司专项</strong>
+      <br>
+      豆包 Agent、数据飞轮、评估体系和产品落地方向题库。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/readme/interview-samsung.png" alt="三星公司专项页面">
+      <br>
+      <strong>三星公司专项</strong>
+      <br>
+      端侧智能、跨设备体验和工程化 Agent 方向题库。
+    </td>
+    <td width="50%">
+      <img src="assets/readme/practice-topic-evaluation.png" alt="评估体系四阶段专题页面">
+      <br>
+      <strong>实战专题：评估体系四阶段</strong>
+      <br>
+      按专题展开 Agent 项目评估、诊断、回归与复盘训练。
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="assets/readme/practice-choice-mode.png" alt="实战训练选择题模式">
+      <br>
+      <strong>实战训练：选择题模式</strong>
+      <br>
+      同一专题可切换到选择题，用更快节奏检查概念掌握情况。
+    </td>
+    <td width="50%">
+      <img src="assets/readme/practice-draw-mode.png" alt="随机抽卡复盘模式">
+      <br>
+      <strong>随机抽卡复盘</strong>
+      <br>
+      随机抽取训练题，展开参考答案、核心要点、推荐项目和快捷复盘操作。
+    </td>
+  </tr>
+</table>
+
 ## 内容规模
 
 | 内容 | 数量 | 说明 |
