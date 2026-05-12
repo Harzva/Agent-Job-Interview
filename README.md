@@ -1,103 +1,96 @@
 <div align="center">
-  <h1>Agent Job Interview Roadmap</h1>
-  <p><strong>面向 Agent 岗位的面试题库、能力地图、项目案例和学习路径。</strong></p>
+  <h1>Agent Job Interview</h1>
+  <p><strong>Agent 岗位面试题库 + Agent 实战训练路线，一套仓库，一个 GitHub Pages。</strong></p>
   <p>
-    <a href="https://harzva.github.io/agent-job-interview-roadmap/">在线题库</a>
+    <a href="https://harzva.github.io/Agent-Job-Interview/">统一入口</a>
     ·
-    <a href="docs/">静态产物</a>
+    <a href="https://harzva.github.io/Agent-Job-Interview/interview/">面试题库</a>
     ·
-    <a href="public/data.json">题库数据</a>
+    <a href="https://harzva.github.io/Agent-Job-Interview/practice/">实战训练</a>
   </p>
   <p>
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-online-0b7a75?style=flat-square">
-    <img alt="Questions" src="https://img.shields.io/badge/questions-758-b23a2b?style=flat-square">
-    <img alt="Companies" src="https://img.shields.io/badge/companies-4-315f91?style=flat-square">
-    <img alt="Frontend" src="https://img.shields.io/badge/frontend-React%20%2B%20Vite-171717?style=flat-square">
+    <img alt="Interview questions" src="https://img.shields.io/badge/interview-758%20questions-b23a2b?style=flat-square">
+    <img alt="Practice questions" src="https://img.shields.io/badge/practice-647%20questions-315f91?style=flat-square">
+    <img alt="Topics" src="https://img.shields.io/badge/topics-14-171717?style=flat-square">
   </p>
 </div>
 
-## 适合谁
+## 为什么合并
 
-这个仓库服务于正在准备 Agent / 大模型应用 / AI 工程岗位的人。它把岗位信息、能力模型、面试题和 GitHub 项目案例放在同一个网页里，方便按公司、按能力维度、按学习路径复盘。
+原来两个仓库分别解决两个相邻问题：
 
-| 人群 | 可以怎么用 |
-| --- | --- |
-| 求职者 | 按公司进入题库，准备 DeepSeek、华为、字节跳动、三星等方向 |
-| 学习者 | 从通用能力、算法/RL、工程、数据、系统、产品、行为面试逐层补齐 |
-| 项目实践者 | 参考 GitHub 案例，把题目训练和项目经历连接起来 |
-| 面试官/导师 | 用能力模型组织模拟面试和训练计划 |
+| 原仓库 | 来源版本 | 解决的问题 | 合并后的入口 |
+| --- | --- | --- | --- |
+| `agent-job-interview-roadmap` | `8cf6d28` | Agent 岗位、公司专项、面试题库、GitHub 项目案例 | [`/interview/`](https://harzva.github.io/Agent-Job-Interview/interview/) |
+| `kimi-agent-practice-roadmap` | `4c4c4d1` | 14 个 Agent 实战主题、随机抽题、练习进度 | [`/practice/`](https://harzva.github.io/Agent-Job-Interview/practice/) |
 
-## 在线体验
+合并后更适合作为一条完整学习路径：先用 `interview` 建立岗位画像和面试地图，再用 `practice` 做每日训练和项目复盘。
 
-| 入口 | 地址 | 用途 |
+## 在线入口
+
+| 页面 | 地址 | 用途 |
 | --- | --- | --- |
-| 在线题库 | <https://harzva.github.io/agent-job-interview-roadmap/> | 浏览题库、公司页和学习路径 |
-| 数据文件 | [`public/data.json`](public/data.json) | 查看题库原始结构 |
-| 发布目录 | [`docs/`](docs/) | GitHub Pages 使用的静态产物 |
+| 统一首页 | <https://harzva.github.io/Agent-Job-Interview/> | 选择学习模块 |
+| 面试题库 | <https://harzva.github.io/Agent-Job-Interview/interview/> | 公司专项、通用题库、学习计划 |
+| 实战训练 | <https://harzva.github.io/Agent-Job-Interview/practice/> | 14 个实践维度、647 道训练题、随机抽卡 |
 
-## 内容结构
+## 学习路径
 
 ```mermaid
 flowchart LR
-    A["岗位与公司"] --> D["Agent 面试题库"]
-    B["能力模型"] --> D
-    C["GitHub 项目案例"] --> D
-    D --> E["专项复习"]
-    D --> F["模拟面试"]
-    D --> G["学习计划"]
-```
-
-## 核心模块
-
-| 模块 | 内容 |
-| --- | --- |
-| 公司专项 | DeepSeek、华为、字节跳动、三星等 Agent 岗位方向 |
-| 通用题库 | 基础能力、算法/RL、工程、数据、系统、产品、行为面试 |
-| GitHub 案例 | 可用于面试讲述和项目拆解的开源案例 |
-| 学习路径 | 从岗位理解到项目准备的分阶段计划 |
-| 交互体验 | HashRouter 单页应用，可直接部署在 GitHub Pages 子路径 |
-
-## 本地运行
-
-```powershell
-npm install
-node .\node_modules\typescript\bin\tsc -b
-node .\node_modules\vite\bin\vite.js build
-```
-
-开发预览：
-
-```powershell
-node .\node_modules\vite\bin\vite.js --host 127.0.0.1 --port 3000
-```
-
-## 发布方式
-
-GitHub Pages 使用 `main` 分支的 `/docs` 目录。更新流程：
-
-```powershell
-node .\node_modules\typescript\bin\tsc -b
-node .\node_modules\vite\bin\vite.js build
-
-# 将 dist/ 内容同步到 docs/
+    A["岗位画像"] --> B["公司专项题库"]
+    B --> C["能力模型"]
+    C --> D["GitHub 项目案例"]
+    D --> E["Agent 实战训练"]
+    E --> F["随机抽题复盘"]
 ```
 
 ## 项目结构
 
 ```text
 .
-├─ docs/                # GitHub Pages 静态产物
-├─ public/data.json     # 题库数据
-├─ src/
-│  ├─ pages/            # 首页、公司页、通用题库页
-│  ├─ sections/         # 岗位、能力、面试、学习路径等区块
-│  └─ components/       # 导航、Markdown 渲染、粒子背景等组件
-├─ package.json
-└─ vite.config.ts
+├─ docs/                  # GitHub Pages 发布目录
+│  ├─ index.html          # 统一首页
+│  ├─ interview/          # 面试题库静态站
+│  └─ practice/           # 实战训练静态站
+├─ apps/
+│  ├─ interview/          # 面试题库 React + Vite 源码
+│  └─ practice/           # 实战训练 React + Vite 源码
+└─ README.md
 ```
 
-## 维护说明
+## 本地开发
 
-- 页面内容主要由 `public/data.json` 驱动。
-- 当前仓库聚焦面试准备和学习导航，不承诺覆盖所有公司岗位。
-- 题库和案例适合用于训练，不应替代真实岗位 JD 与最新招聘信息。
+两个子应用仍然可以独立开发。
+
+```powershell
+cd apps/interview
+npm install
+node .\node_modules\typescript\bin\tsc -b
+node .\node_modules\vite\bin\vite.js build
+```
+
+```powershell
+cd apps/practice
+npm install
+node .\node_modules\typescript\bin\tsc -b
+node .\node_modules\vite\bin\vite.js build
+```
+
+构建后把各自的 `dist/` 同步到：
+
+- `docs/interview/`
+- `docs/practice/`
+
+## 发布说明
+
+GitHub Pages 使用 `main` 分支的 `/docs` 目录。两个子应用都使用相对资源路径，适配项目页子路径部署。
+
+> `practice` 模块的数据请求必须保持为 `./topics.json`；改成 `/topics.json` 会在 GitHub Pages 子路径下加载失败。
+
+## 维护策略
+
+- 新内容优先进入对应子应用源码，再同步静态产物到 `docs/`。
+- 原独立仓库保留为历史入口或跳转入口，统一维护以 `Harzva/Agent-Job-Interview` 为主。
+- 题库与训练内容用于学习和模拟，不代表任何公司官方面试题。
