@@ -441,10 +441,14 @@ export default function CompanyPage({ companies, generalQuestions, companyQuesti
                   </div>
 
                   {job.source && (
-                    <div className="mb-3 grid gap-2 border-t pt-3 text-[11px] sm:grid-cols-3" style={{ borderColor: theme.border, color: theme.muted }}>
+                    <div className="mb-3 grid gap-2 border-t pt-3 text-[11px] sm:grid-cols-4" style={{ borderColor: theme.border, color: theme.muted }}>
                       <span className="inline-flex items-center gap-1">
                         <CalendarDays size={12} style={{ color: theme.accent }} />
                         {job.source.firstSeenAt ? `起始 ${job.source.firstSeenAt}` : '起始待核验'}
+                      </span>
+                      <span className="inline-flex items-center gap-1">
+                        <CalendarDays size={12} style={{ color: theme.accent }} />
+                        {job.source.snapshotDate ? `快照 ${job.source.snapshotDate}` : '快照待核验'}
                       </span>
                       <span className="inline-flex items-center gap-1">
                         <Building2 size={12} style={{ color: theme.accent }} />

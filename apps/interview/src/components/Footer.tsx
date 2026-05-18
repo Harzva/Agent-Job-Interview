@@ -73,7 +73,7 @@ export default function Footer() {
 
         <div className="border-t border-[#1E293B] pt-6 text-center">
           <p className="text-xs text-[#64748B]">
-            &copy; 2026 DeepSeek Agent 岗位分析 | 数据来源：DeepSeek 2026.04.27 招聘信息
+            &copy; 2026 Agent 岗位面试题库 | 数据来源：DeepSeek、小米等官方招聘页与公开岗位快照
           </p>
         </div>
       </div>

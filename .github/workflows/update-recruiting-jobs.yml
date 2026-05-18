@@ -1,0 +1,47 @@
+name: Update Recruiting Jobs
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 09:17 Asia/Shanghai. GitHub cron uses UTC.
+    - cron: '17 1 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-recruiting-jobs
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Refresh recruiting data
+        run: node scripts/update-recruiting-jobs.mjs
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add apps/interview/public/data.json docs/interview/data.json
+
+          if git diff --cached --quiet; then
+            echo "No recruiting data changes."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh recruiting jobs"
+          git push
