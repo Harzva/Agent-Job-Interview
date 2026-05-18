@@ -19,6 +19,19 @@ const USER_AGENT =
 
 const dryRun = process.argv.includes('--dry-run');
 
+const LLM_AGENT_RELEVANCE_PATTERN =
+  /agent|智能体|大模型|llm|基座模型|多模态|生成式|vla|深度学习|强化学习|rlhf|ppo|dpo|grpo|ai\s*infra|AI超算|超算集群|模型训练|模型推理|推理框架|推理加速|AI编译器/i;
+const XIAOMI_BIG_MODEL_CONTEXT_PATTERN =
+  /认知|记忆|问答|对话|训练|推理|对齐|评估|语音|视觉|影像|端侧|垂域|开源|成本|编译器|infra|芯片协同|生成与理解/i;
+
+function isAgentOrLlmJob(title, groupName = '') {
+  const normalizedTitle = String(title || '');
+  const normalizedGroup = String(groupName || '');
+
+  if (LLM_AGENT_RELEVANCE_PATTERN.test(normalizedTitle)) return true;
+  return normalizedGroup === '大模型' && XIAOMI_BIG_MODEL_CONTEXT_PATTERN.test(normalizedTitle);
+}
+
 function todayInChina() {
   const parts = new Intl.DateTimeFormat('en-CA', {
     timeZone: 'Asia/Shanghai',
@@ -327,6 +340,7 @@ async function fetchDeepSeekJobs(existingCompany, today) {
   const existing = existingJobMaps(existingCompany);
   const normalized = jobs
     .filter(job => job?.title && (!job.status || job.status === 'open'))
+    .filter(job => isAgentOrLlmJob(job.title))
     .map(job => normalizeDeepSeekJob(job, existing, today));
 
   return normalized;
@@ -392,6 +406,8 @@ function normalizeXiaomiJobs(groups, hash, existingCompany, today) {
 
   for (const group of groups) {
     for (const topic of group.children || []) {
+      if (!isAgentOrLlmJob(topic.name, group.name)) continue;
+
       const links = Array.isArray(topic.links) && topic.links.length ? topic.links : [XIAOMI_TOP_TALENT_URL];
       links.forEach((sourceUrl, index) => {
         const positionId = sourceUrl.match(/position\/([^/]+)/)?.[1] || hashText(`${topic.name}-${sourceUrl}-${index}`);
