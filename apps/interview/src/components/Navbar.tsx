@@ -15,6 +15,10 @@ const routeLinks = [
   { label: 'DeepSeek', to: '/deepseek' },
 ];
 
+const externalLinks = [
+  { label: 'Homepage展示', href: 'https://just-agent.github.io/Just-ShowHomePage/' },
+];
+
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -108,6 +112,18 @@ export default function Navbar() {
               {link.label}
             </Link>
           ))}
+
+          {externalLinks.map(link => (
+            <a
+              key={link.href}
+              href={link.href}
+              target="_blank"
+              rel="noreferrer"
+              className="text-sm font-medium text-[#94A3B8] transition-colors duration-300 hover:text-[#A3E635]"
+            >
+              {link.label}
+            </a>
+          ))}
         </div>
 
         <button
@@ -157,6 +173,19 @@ export default function Navbar() {
                 >
                   {link.label}
                 </Link>
+              ))}
+
+              {externalLinks.map(link => (
+                <a
+                  key={link.href}
+                  href={link.href}
+                  target="_blank"
+                  rel="noreferrer"
+                  onClick={() => setMobileOpen(false)}
+                  className="rounded-lg px-3 py-2 text-sm font-medium text-[#94A3B8] transition-colors hover:bg-[rgba(163,230,53,0.08)] hover:text-[#A3E635]"
+                >
+                  {link.label}
+                </a>
               ))}
             </div>
           </motion.div>

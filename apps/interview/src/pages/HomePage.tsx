@@ -91,6 +91,24 @@ const themeSlides = [
       ['∞', '横向浏览'],
     ],
   },
+  {
+    id: 'homepage',
+    label: 'Homepage 展示',
+    eyebrow: 'HOMEPAGE SHOWCASE DESIGN',
+    title: '14 种首页展示方式',
+    subtitle: '独立画廊收集首页 Showcase、Bento、公司墙、岗位看板、技能图谱等 UI 方案，并跳回本站真实场景。',
+    primary: '#A3E635',
+    secondary: '#38BDF8',
+    href: 'https://just-agent.github.io/Just-ShowHomePage/',
+    cta: '打开画廊',
+    background:
+      'radial-gradient(ellipse at 18% 20%, rgba(163, 230, 53, 0.22), transparent 34%), radial-gradient(ellipse at 82% 50%, rgba(56, 189, 248, 0.20), transparent 36%), linear-gradient(135deg, #07110F 0%, #0B1020 56%, #090A12 100%)',
+    stats: [
+      ['14', '展示方式'],
+      ['5', '公司素材'],
+      ['Pages', '独立站点'],
+    ],
+  },
 ];
 
 export default function HomePage({ companies }: Props) {
@@ -286,14 +304,27 @@ export default function HomePage({ companies }: Props) {
                   </div>
 
                   <div className="mt-10 flex flex-wrap gap-3">
-                    <Link
-                      to={slide.id === 'warm' ? '/deepseek' : slide.id === 'neon' ? '/general' : '#companies'}
-                      className="inline-flex items-center gap-2 rounded-lg px-5 py-3 text-sm font-semibold text-white"
-                      style={{ background: slide.id === 'clean' ? '#2563EB' : slide.primary }}
-                    >
-                      查看样式
-                      <ArrowRight size={15} />
-                    </Link>
+                    {'href' in slide && slide.href ? (
+                      <a
+                        href={slide.href}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="inline-flex items-center gap-2 rounded-lg px-5 py-3 text-sm font-semibold text-[#0B0F1A]"
+                        style={{ background: slide.primary }}
+                      >
+                        {slide.cta}
+                        <ArrowRight size={15} />
+                      </a>
+                    ) : (
+                      <Link
+                        to={slide.id === 'warm' ? '/deepseek' : slide.id === 'neon' ? '/general' : '#companies'}
+                        className="inline-flex items-center gap-2 rounded-lg px-5 py-3 text-sm font-semibold text-white"
+                        style={{ background: slide.id === 'clean' ? '#2563EB' : slide.primary }}
+                      >
+                        查看样式
+                        <ArrowRight size={15} />
+                      </Link>
+                    )}
                     <button
                       type="button"
                       onClick={() => setActiveTheme(current => (current + 1) % themeSlides.length)}
