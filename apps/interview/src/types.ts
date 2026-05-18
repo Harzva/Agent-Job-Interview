@@ -84,6 +84,7 @@ export interface Company {
   id: string;
   name: string;
   logo: string;
+  logoUrl?: string;
   description: string;
   color: string;
   gradient: string;

@@ -13,6 +13,13 @@ const DEEPSEEK_HTML_URL = 'https://app.mokahr.com/social-recruitment/high-flyer/
 const DEEPSEEK_JOBS_API = 'https://app.mokahr.com/api/outer/ats-apply/website/jobs/module';
 const XIAOMI_CAMPUS_URL = 'https://hr.xiaomi.com/campus';
 const XIAOMI_TOP_TALENT_URL = 'https://xiaomi.jobs.f.mioffice.cn/toptalent/';
+const COMPANY_LOGO_URLS = {
+  deepseek: './logos/deepseek.png',
+  huawei: './logos/huawei.png',
+  bytedance: './logos/bytedance.svg',
+  samsung: './logos/samsung.svg',
+  xiaomi: './logos/xiaomi.png',
+};
 
 const USER_AGENT =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36';
@@ -457,6 +464,14 @@ function upsertCompany(data, id, patch) {
   }
 }
 
+function applyKnownCompanyLogos(data) {
+  for (const company of data.companies || []) {
+    if (COMPANY_LOGO_URLS[company.id]) {
+      company.logoUrl = COMPANY_LOGO_URLS[company.id];
+    }
+  }
+}
+
 function buildXiaomiQuestions(data) {
   const plan = [
     ['algo_rl', 20],
@@ -503,6 +518,7 @@ async function main() {
     upsertCompany(data, 'deepseek', {
       name: 'DeepSeek',
       logo: '🔍',
+      logoUrl: COMPANY_LOGO_URLS.deepseek,
       description: '深度求索，中国领先的大模型公司，以低成本高性能闻名',
       color: '#0EA5E9',
       gradient: 'from-[#0EA5E9] to-[#06B6D4]',
@@ -517,6 +533,7 @@ async function main() {
     upsertCompany(data, 'xiaomi', {
       name: '小米',
       logo: '⚡',
+      logoUrl: COMPANY_LOGO_URLS.xiaomi,
       description: '小米集团 AI、智能硬件、汽车、IoT 与大模型方向岗位跟踪',
       color: '#FF6900',
       gradient: 'from-[#FF6900] to-[#F59E0B]',
@@ -528,6 +545,8 @@ async function main() {
   } else {
     console.warn(`[xiaomi] skipped: ${xiaomiResult.reason?.message || 'no jobs fetched'}`);
   }
+
+  applyKnownCompanyLogos(data);
 
   const summary = data.companies.map(company => `${company.id}:${company.jobs.length}`).join(', ');
   console.log(`Recruiting sync summary: ${summary}`);

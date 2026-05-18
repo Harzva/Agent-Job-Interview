@@ -226,7 +226,8 @@
           ]
         }
       ],
-      "questionCount": 518
+      "questionCount": 518,
+      "logoUrl": "./logos/deepseek.png"
     },
     {
       "id": "huawei",
@@ -280,7 +281,8 @@
           "description": "负责记忆管理、自主决策、代码生成相关模块的开发"
         }
       ],
-      "questionCount": 80
+      "questionCount": 80,
+      "logoUrl": "./logos/huawei.png"
     },
     {
       "id": "bytedance",
@@ -347,7 +349,8 @@
           "description": "设计并实现基于LLM的搜索总结Agent"
         }
       ],
-      "questionCount": 80
+      "questionCount": 80,
+      "logoUrl": "./logos/bytedance.svg"
     },
     {
       "id": "samsung",
@@ -372,7 +375,8 @@
           "description": "负责Agentic AI解决方案的设计、实现和优化"
         }
       ],
-      "questionCount": 80
+      "questionCount": 80,
+      "logoUrl": "./logos/samsung.svg"
     },
     {
       "id": "xiaomi",
@@ -2389,7 +2393,8 @@
           ]
         }
       ],
-      "questionCount": 80
+      "questionCount": 80,
+      "logoUrl": "./logos/xiaomi.png"
     }
   ],
   "questions": {

@@ -13,6 +13,7 @@ import {
   Sparkles,
 } from 'lucide-react';
 import { Link } from 'react-router';
+import CompanyLogo from '@/components/CompanyLogo';
 import ParticleCanvas from '@/components/ParticleCanvas';
 
 interface CompanyJob {
@@ -29,6 +30,7 @@ interface Company {
   id: string;
   name: string;
   logo: string;
+  logoUrl?: string;
   description: string;
   color: string;
   gradient: string;
@@ -111,6 +113,7 @@ export default function HomePage({ companies }: Props) {
           companyId: company.id,
           companyName: company.name,
           companyLogo: company.logo,
+          companyLogoUrl: company.logoUrl,
           companyColor: company.color,
           jobId: job.id,
           title: job.title,
@@ -318,10 +321,11 @@ export default function HomePage({ companies }: Props) {
         </div>
       </section>
 
-      <section id="company-flow" className="overflow-hidden border-y border-[#1E293B] bg-[#F8FAFC] py-9 text-[#111827]">
+      <section id="company-flow" className="company-flow-section overflow-hidden border-y border-[#1E293B] bg-[#0B0F1A] py-10 text-[#F8FAFC]">
         <div className="mb-6 text-center">
-          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-[#64748B]">Company Job Flow</div>
-          <h2 className="mt-2 text-2xl font-bold md:text-4xl">接入公司的岗位正在流动展示</h2>
+          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-[#38BDF8]">Company Job Flow</div>
+          <h2 className="mt-2 text-2xl font-bold text-[#F8FAFC] md:text-4xl">接入公司的岗位正在流动展示</h2>
+          <p className="mt-2 text-sm text-[#94A3B8]">真实岗位同步后进入公司页匹配题库</p>
         </div>
 
         <div className="company-marquee-track">
@@ -333,12 +337,12 @@ export default function HomePage({ companies }: Props) {
                 className="company-marquee-item"
                 style={{ '--company-color': item.companyColor } as CSSProperties}
               >
-                <span className="text-3xl">{item.companyLogo}</span>
+                <CompanyLogo name={item.companyName} logo={item.companyLogo} logoUrl={item.companyLogoUrl} size="sm" />
                 <span className="min-w-0">
                   <span className="block text-sm font-bold">{item.companyName}</span>
-                  <span className="block max-w-[210px] truncate text-xs text-[#64748B]">{item.title}</span>
+                  <span className="block max-w-[220px] truncate text-xs">{item.title}</span>
                 </span>
-                <span className="rounded bg-[#F1F5F9] px-2 py-1 text-[11px] text-[#475569]">{item.level}</span>
+                <span className="company-marquee-level">{item.level}</span>
               </Link>
             ))}
           </div>
@@ -372,7 +376,7 @@ export default function HomePage({ companies }: Props) {
                   className="group block rounded-lg border border-[#1E293B] bg-[#151D2B] p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[rgba(14,165,233,0.5)] hover:shadow-glow-sm"
                 >
                   <div className="mb-4 flex items-center gap-3">
-                    <span className="text-3xl">{company.logo}</span>
+                    <CompanyLogo name={company.name} logo={company.logo} logoUrl={company.logoUrl} size="md" />
                     <div>
                       <h3 className="font-heading text-lg font-semibold text-[#F8FAFC]">{company.name}</h3>
                       <span className="text-xs text-[#64748B]">{company.jobs.length} 个岗位</span>

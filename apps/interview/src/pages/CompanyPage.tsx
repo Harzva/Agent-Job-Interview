@@ -19,6 +19,7 @@ import {
   SunMedium,
   X,
 } from 'lucide-react';
+import CompanyLogo from '@/components/CompanyLogo';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
 import type { Company, CompanyJob, InterviewMode, Question } from '@/types';
 
@@ -341,7 +342,7 @@ export default function CompanyPage({ companies, generalQuestions, companyQuesti
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}>
             <div className="mb-4 flex items-center gap-4">
-              <span className="text-5xl">{company.logo}</span>
+              <CompanyLogo name={company.name} logo={company.logo} logoUrl={company.logoUrl} size="lg" />
               <div>
                 <h1 className="font-display text-[28px] font-bold md:text-[44px]" style={{ color: theme.text }}>
                   {company.name}
