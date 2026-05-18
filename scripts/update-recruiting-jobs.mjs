@@ -395,10 +395,10 @@ function normalizeXiaomiJobs(groups, hash, existingCompany, today) {
       const links = Array.isArray(topic.links) && topic.links.length ? topic.links : [XIAOMI_TOP_TALENT_URL];
       links.forEach((sourceUrl, index) => {
         const positionId = sourceUrl.match(/position\/([^/]+)/)?.[1] || hashText(`${topic.name}-${sourceUrl}-${index}`);
-        const id = `xm_${positionId}`;
-        const existingJob = existing.byId.get(id) || existing.byTitle.get(normalizeText(topic.name));
-        const location = topic.cities?.[index] || (topic.cities?.length ? topic.cities.join('/') : '官方未标注');
         const title = String(topic.name || '').trim();
+        const id = `xm_${positionId}_${hashText(title).slice(0, 6)}`;
+        const existingJob = existing.byId.get(id) || existing.byTitle.get(normalizeText(title));
+        const location = topic.cities?.[index] || (topic.cities?.length ? topic.cities.join('/') : '官方未标注');
         const categories = categoriesForTitle(title);
         const tags = tagsForTitle(title, [group.name, sourceUrl.includes('topintern') ? '实习' : '校招']);
 
