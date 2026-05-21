@@ -11,6 +11,13 @@ const DOCS_DATA = path.join(ROOT, 'docs', 'interview', 'data.json');
 const DEEPSEEK_URL = 'https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs';
 const DEEPSEEK_HTML_URL = 'https://app.mokahr.com/social-recruitment/high-flyer/140576/';
 const DEEPSEEK_JOBS_API = 'https://app.mokahr.com/api/outer/ats-apply/website/jobs/module';
+const KIMI_URL = 'https://careers.kimi.com/';
+const KIMI_MOKA_URL = 'https://app.mokahr.com/apply/moonshot/148506#/jobs';
+const KIMI_MOKA_HTML_URL = 'https://app.mokahr.com/apply/moonshot/148506/';
+const MINIMAX_URL = 'https://www.minimaxi.com/careers';
+const MINIMAX_FEISHU_SOCIAL_URL = 'https://vrfi1sk8a0.jobs.feishu.cn/index/';
+const MINIMAX_FEISHU_CAMPUS_URL = 'https://vrfi1sk8a0.jobs.feishu.cn/379481/';
+const ZHIPU_CAMPUS_URL = 'https://zhipu-ai.jobs.feishu.cn/zhipucampus/';
 const XIAOMI_CAMPUS_URL = 'https://hr.xiaomi.com/campus';
 const XIAOMI_TOP_TALENT_URL = 'https://xiaomi.jobs.f.mioffice.cn/toptalent/';
 const COMPANY_LOGO_URLS = {
@@ -19,6 +26,9 @@ const COMPANY_LOGO_URLS = {
   bytedance: './logos/bytedance.svg',
   samsung: './logos/samsung.svg',
   xiaomi: './logos/xiaomi.png',
+  kimi: 'https://careers.kimi.com/favicon.ico?favicon.151bc5b8.ico',
+  minimax: 'https://filecdn.minimax.chat/public/58eca777-e31f-448a-9823-e2220e49b426.png',
+  zhipu: 'https://lf3-static.bytednsdoc.com/obj/eden-cn/uptkheh7nulozbflpe/portal_build/logo/logo.png',
 };
 
 const USER_AGENT =
@@ -28,15 +38,41 @@ const dryRun = process.argv.includes('--dry-run');
 
 const LLM_AGENT_RELEVANCE_PATTERN =
   /agent|智能体|大模型|llm|基座模型|多模态|生成式|vla|深度学习|强化学习|rlhf|ppo|dpo|grpo|ai\s*infra|AI超算|超算集群|模型训练|模型推理|推理框架|推理加速|AI编译器/i;
+const LLM_AGENT_DETAIL_PATTERN =
+  /agent|智能体|大模型|llm|vlm|glm|基座模型|多模态|生成式|rag|tool\s*use|强化学习|rlhf|ppo|dpo|grpo|megatron|deepspeed|模型训练|模型推理|推理框架|推理加速|AI编译器/i;
+const FEISHU_STRONG_TITLE_PATTERN =
+  /agent|智能体|大模型|llm|vlm|glm|agi|aigc|多模态|基座模型|语言模型|模型(?!.*招聘)|强化学习|rlhf|ppo|dpo|grpo|推理|训练框架|预训练|后训练|ai\s*(agent|infra|system|前端|后端|服务端|全栈|客户端|产品|评测|算法|系统|平台|基础设施)|ai[-\s]?system|ai基础设施|ai评测|ai产品/i;
+const FEISHU_TECH_TITLE_PATTERN =
+  /算法|工程师|研发|研究|架构|开发|平台|系统|数据|评测|产品经理|PM|TPM|FDE|Infra|Devops|K8S|Kernel|Linux|Co-Design|Vibe Coder/i;
+const NON_TARGET_FEISHU_TITLE_PATTERN =
+  /采购|行政|招聘|Talent Acquisition|HR|市场部|市场营销|营销|销售|渠道|商务|Account Executive|General Manager|GTM|SEO|KOL|品宣|运营|安全运营$|Regional/i;
+const FEISHU_NON_TARGET_OVERRIDE_PATTERN =
+  /agent|智能体|工程师|研发|算法|产品经理|PM|TPM|FDE|架构|数据|评测|系统|平台|Infra|开发|研究|Co-Design|训练框架|推理框架/i;
 const XIAOMI_BIG_MODEL_CONTEXT_PATTERN =
   /认知|记忆|问答|对话|训练|推理|对齐|评估|语音|视觉|影像|端侧|垂域|开源|成本|编译器|infra|芯片协同|生成与理解/i;
 
-function isAgentOrLlmJob(title, groupName = '') {
+function isAgentOrLlmJob(title, groupName = '', detailText = '') {
   const normalizedTitle = String(title || '');
   const normalizedGroup = String(groupName || '');
+  const normalizedDetail = String(detailText || '');
 
   if (LLM_AGENT_RELEVANCE_PATTERN.test(normalizedTitle)) return true;
+  if (LLM_AGENT_RELEVANCE_PATTERN.test(normalizedGroup)) return true;
+  if (LLM_AGENT_DETAIL_PATTERN.test(normalizedDetail)) return true;
   return normalizedGroup === '大模型' && XIAOMI_BIG_MODEL_CONTEXT_PATTERN.test(normalizedTitle);
+}
+
+function isFeishuAgentOrLlmJob(title, groupName = '', detailText = '') {
+  const normalizedTitle = String(title || '');
+  const normalizedGroup = String(groupName || '');
+  const normalizedDetail = String(detailText || '');
+
+  if (NON_TARGET_FEISHU_TITLE_PATTERN.test(normalizedTitle) && !FEISHU_NON_TARGET_OVERRIDE_PATTERN.test(normalizedTitle)) {
+    return false;
+  }
+
+  if (FEISHU_STRONG_TITLE_PATTERN.test(`${normalizedTitle} ${normalizedGroup}`)) return true;
+  return FEISHU_TECH_TITLE_PATTERN.test(normalizedTitle) && LLM_AGENT_DETAIL_PATTERN.test(normalizedDetail);
 }
 
 function todayInChina() {
@@ -272,42 +308,68 @@ function existingJobMaps(company) {
   return { byId, byTitle };
 }
 
-function normalizeDeepSeekJob(job, existing, today) {
+function plainText(value) {
+  return decodeHtml(String(value || ''))
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function dateFromTimestamp(value) {
+  if (!value) return '';
+  const numeric = Number(value);
+  if (!Number.isFinite(numeric)) return '';
+  const milliseconds = numeric > 1e12 ? numeric : numeric * 1000;
+  const parsed = new Date(milliseconds);
+  return Number.isNaN(parsed.valueOf()) ? '' : parsed.toISOString().slice(0, 10);
+}
+
+function summarizeJobText(title, companyName, description, requirement) {
+  const summary = plainText(description || requirement).slice(0, 120);
+  if (summary) return summary;
+  return `${title}，来自 ${companyName} 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。`;
+}
+
+function normalizeOfficialJob(job, existing, today, config) {
   const title = String(job.title || '').trim();
   const existingJob = existing.byTitle.get(normalizeText(title));
-  const id = existingJob?.id || `ds_${hashText(job.id || title)}`;
+  const id = existingJob?.id || `${config.prefix}_${hashText(job.id || title)}`;
   const categories = categoriesForTitle(title);
   const tags = tagsForTitle(title, existingJob?.tags || []);
-  const firstSeenAt = dateOnly(job.openedAt) || dateOnly(job.createdAt) || existingJob?.source?.firstSeenAt || today;
+  const firstSeenAt =
+    dateOnly(job.openedAt) ||
+    dateOnly(job.createdAt) ||
+    dateFromTimestamp(job.publish_time) ||
+    existingJob?.source?.firstSeenAt ||
+    today;
   const snapshotDate = dateOnly(job.updatedAt) || today;
+  const description = summarizeJobText(title, config.companyName, job.description, job.requirement);
 
   return {
     id,
     title,
     salary: existingJob?.salary || '官方未公开',
-    location: formatMokaLocations(job),
+    location: config.formatLocation(job),
     level: existingJob?.level || levelForTitle(title),
     tags,
-    description:
-      existingJob?.description ||
-      `${title}，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。`,
+    description: existingJob?.description || description,
     source: {
-      company: 'DeepSeek',
-      sourceName: 'DeepSeek 官方招聘页（Moka）',
-      sourceUrl: DEEPSEEK_URL,
-      evidenceUrl: DEEPSEEK_URL,
+      company: config.companyName,
+      sourceName: config.sourceName,
+      sourceUrl: config.sourceUrlForJob?.(job) || config.sourceUrl,
+      evidenceUrl: config.evidenceUrl,
       firstSeenAt,
       snapshotDate,
       status: job.status || 'open',
-      note: '岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。',
+      note: config.note,
     },
     questionCategories: categories,
     questionFocus: focusForTitle(title, tags, categories),
   };
 }
 
-async function fetchDeepSeekJobs(existingCompany, today) {
-  const { html, cookie } = await fetchHtmlWithCookies(DEEPSEEK_HTML_URL);
+async function fetchMokaJobs(config, existingCompany, today) {
+  const { html, cookie } = await fetchHtmlWithCookies(config.htmlUrl);
   const initData = extractInitData(html);
   let jobs = Array.isArray(initData.jobs) ? initData.jobs : [];
 
@@ -318,12 +380,12 @@ async function fetchDeepSeekJobs(existingCompany, today) {
       headers: {
         'content-type': 'application/json',
         origin: 'https://app.mokahr.com',
-        referer: DEEPSEEK_HTML_URL,
+        referer: config.htmlUrl,
         ...(cookie ? { cookie } : {}),
       },
       body: JSON.stringify({
-        siteId: initData.org?.siteId || 140576,
-        orgId: initData.org?.id || 'high-flyer',
+        siteId: initData.org?.siteId || config.siteId,
+        orgId: initData.org?.id || config.orgId,
         keyword: '',
         limit: 100,
         offset: 0,
@@ -341,16 +403,328 @@ async function fetchDeepSeekJobs(existingCompany, today) {
     const apiJobs = decrypted?.data?.jobs || decrypted?.jobs || [];
     if (Array.isArray(apiJobs) && apiJobs.length > jobs.length) jobs = apiJobs;
   } catch (error) {
-    console.warn(`[deepseek] API fallback to init-data: ${error.message}`);
+    console.warn(`[${config.companyId}] Moka API fallback to init-data: ${error.message}`);
   }
 
   const existing = existingJobMaps(existingCompany);
+  const seen = new Set();
   const normalized = jobs
     .filter(job => job?.title && (!job.status || job.status === 'open'))
-    .filter(job => isAgentOrLlmJob(job.title))
-    .map(job => normalizeDeepSeekJob(job, existing, today));
+    .filter(job => isAgentOrLlmJob(job.title, '', `${job.description || ''} ${job.requirement || ''}`))
+    .map(job => normalizeOfficialJob(job, existing, today, config))
+    .filter(job => {
+      const key = normalizeText(`${job.title}-${job.location}`);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
 
   return normalized;
+}
+
+function fetchDeepSeekJobs(existingCompany, today) {
+  return fetchMokaJobs(
+    {
+      companyId: 'deepseek',
+      companyName: 'DeepSeek',
+      prefix: 'ds',
+      htmlUrl: DEEPSEEK_HTML_URL,
+      sourceUrl: DEEPSEEK_URL,
+      evidenceUrl: DEEPSEEK_URL,
+      sourceName: 'DeepSeek 官方招聘页（Moka）',
+      siteId: 140576,
+      orgId: 'high-flyer',
+      formatLocation: formatMokaLocations,
+      note: '岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。',
+    },
+    existingCompany,
+    today,
+  );
+}
+
+function fetchKimiJobs(existingCompany, today) {
+  return fetchMokaJobs(
+    {
+      companyId: 'kimi',
+      companyName: 'Kimi / Moonshot AI',
+      prefix: 'kimi',
+      htmlUrl: KIMI_MOKA_HTML_URL,
+      sourceUrl: KIMI_MOKA_URL,
+      evidenceUrl: KIMI_URL,
+      sourceName: 'Kimi 官方招聘页（Moka）',
+      siteId: 148506,
+      orgId: 'moonshot',
+      formatLocation: formatMokaLocations,
+      note: '岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。',
+    },
+    existingCompany,
+    today,
+  );
+}
+
+function extractScriptUrls(html, baseUrl) {
+  return [...String(html || '').matchAll(/<script[^>]+src=["']([^"']+)["']/g)]
+    .map(match => new URL(match[1], baseUrl).toString());
+}
+
+function extractBalancedFunctionBody(code, marker) {
+  const markerIndex = code.indexOf(marker);
+  if (markerIndex < 0) throw new Error(`${marker} not found`);
+  const start = code.indexOf('{', markerIndex);
+  if (start < 0) throw new Error(`${marker} body not found`);
+
+  let depth = 0;
+  let quote = '';
+  let escaped = false;
+
+  for (let i = start; i < code.length; i += 1) {
+    const char = code[i];
+
+    if (quote) {
+      if (escaped) {
+        escaped = false;
+      } else if (char === '\\') {
+        escaped = true;
+      } else if (char === quote) {
+        quote = '';
+      }
+      continue;
+    }
+
+    if (char === '"' || char === "'" || char === '`') {
+      quote = char;
+      continue;
+    }
+
+    if (char === '{') depth += 1;
+    if (char === '}') {
+      depth -= 1;
+      if (depth === 0) return code.slice(start + 1, i);
+    }
+  }
+
+  throw new Error(`${marker} body is not closed`);
+}
+
+function websitePathFromUrl(url) {
+  return new URL(url).pathname.replace(/^\/+/, '').replace(/\/+$/, '');
+}
+
+function appendQueryParams(url, data) {
+  const pairs = [];
+  for (const key of Object.keys(data || {})) {
+    const value = data[key];
+    if (value !== undefined && value !== 'undefined') {
+      pairs.push(`${key}=${encodeURIComponent(value)}`);
+    }
+  }
+
+  const query = pairs.join('&');
+  if (!query) return url;
+  return url.includes('?') ? `${url}&${query}` : `${url}?${query}`;
+}
+
+let feishuSignerPromise;
+
+async function loadFeishuSigner(referenceUrl) {
+  if (feishuSignerPromise) return feishuSignerPromise;
+
+  feishuSignerPromise = (async () => {
+    const html = await fetchText(referenceUrl, { accept: 'text/html,application/xhtml+xml' });
+    const scriptUrls = extractScriptUrls(html, referenceUrl);
+
+    for (const scriptUrl of scriptUrls) {
+      const script = await fetchText(scriptUrl, { accept: 'application/javascript,text/javascript,*/*' });
+      if (!script.includes('57195:function') || !script.includes('_signature')) continue;
+
+      const body = extractBalancedFunctionBody(script, '57195:function');
+      const module = { exports: {} };
+      // Feishu protects public job-list APIs with the same in-page signer used by its career frontend.
+      // The job sync executes only this signer module and sends no secrets to the page.
+      new Function('e', 't', body)(module, module.exports);
+      if (typeof module.exports.sign === 'function') return module.exports.sign;
+    }
+
+    throw new Error('Feishu signer not found');
+  })();
+
+  return feishuSignerPromise;
+}
+
+async function getFeishuCsrf(origin, pageUrl) {
+  const response = await fetchWithTimeout(`${origin}/api/v1/csrf/token`, {
+    method: 'POST',
+    accept: 'application/json, text/plain, */*',
+    headers: {
+      'content-type': 'application/json',
+      origin,
+      referer: pageUrl,
+      'Portal-Channel': 'saas-career',
+      'Portal-Platform': 'pc',
+      'website-path': websitePathFromUrl(pageUrl),
+    },
+    body: JSON.stringify({ portal_entrance: 1 }),
+  });
+
+  if (!response.ok) throw new Error(`${origin} csrf returned ${response.status}`);
+  const payload = await response.json();
+  const token = payload?.data?.token;
+  if (!token) throw new Error(`${origin} csrf token not found`);
+  const cookie = getSetCookies(response.headers).map(item => item.split(';')[0]).filter(Boolean).join('; ');
+  return { token, cookie };
+}
+
+async function fetchFeishuJobPosts({ pageUrl, keyword = '', subjectIds = [] }) {
+  const origin = new URL(pageUrl).origin;
+  const sign = await loadFeishuSigner(pageUrl);
+  const { token, cookie } = await getFeishuCsrf(origin, pageUrl);
+  const body = {
+    keyword,
+    limit: 100,
+    offset: 0,
+    job_category_id_list: [],
+    tag_id_list: [],
+    location_code_list: [],
+    subject_id_list: subjectIds,
+    recruitment_id_list: [],
+    portal_type: 6,
+    job_function_id_list: [],
+    storefront_id_list: [],
+    portal_entrance: 1,
+  };
+
+  let requestPath = appendQueryParams('/api/v1/search/job/posts', body);
+  requestPath = appendQueryParams(requestPath, { _signature: sign({ body, url: requestPath }) });
+
+  const response = await fetchWithTimeout(`${origin}${requestPath}`, {
+    method: 'POST',
+    accept: 'application/json, text/plain, */*',
+    headers: {
+      'content-type': 'application/json',
+      origin,
+      referer: pageUrl,
+      'Portal-Channel': 'saas-career',
+      'Portal-Platform': 'pc',
+      'website-path': websitePathFromUrl(pageUrl),
+      'x-csrf-token': token,
+      ...(cookie ? { cookie } : {}),
+    },
+    body: JSON.stringify(body),
+  });
+
+  if (!response.ok) throw new Error(`${pageUrl} returned ${response.status}`);
+  const payload = await response.json();
+  const jobs = payload?.data?.job_post_list || [];
+  if (!Array.isArray(jobs)) throw new Error(`${pageUrl} job list not found`);
+  return jobs;
+}
+
+function formatFeishuLocations(job) {
+  const locations = Array.isArray(job.city_list) && job.city_list.length ? job.city_list : [job.city_info];
+  return unique(locations.map(location => location?.i18n_name || location?.name || location?.en_name)).join('/') || '官方未标注';
+}
+
+function feishuDetailUrl(pageUrl, job) {
+  return new URL(`position/detail/${job.id}`, pageUrl).toString();
+}
+
+function normalizeFeishuJob(job, existing, today, config) {
+  const title = String(job.title || '').trim();
+  const existingJob = existing.byTitle.get(normalizeText(title));
+  const id = existingJob?.id || `${config.prefix}_${job.id || hashText(`${title}-${config.pageUrl}`)}`;
+  const detailText = `${job.description || ''} ${job.requirement || ''}`;
+  const categories = categoriesForTitle(`${title} ${detailText}`);
+  const recruitType = job.recruit_type?.i18n_name || job.recruit_type?.name || '';
+  const tags = tagsForTitle(`${title} ${detailText}`, [recruitType, config.sourceTag]);
+  const publishedAt = dateFromTimestamp(job.publish_time);
+
+  return {
+    id,
+    title,
+    salary: existingJob?.salary || '官方未公开',
+    location: formatFeishuLocations(job),
+    level: existingJob?.level || levelForTitle(`${title} ${recruitType}`, config.pageUrl),
+    tags,
+    description: existingJob?.description || summarizeJobText(title, config.companyName, job.description, job.requirement),
+    source: {
+      company: config.companyName,
+      sourceName: config.sourceName,
+      sourceUrl: feishuDetailUrl(config.pageUrl, job),
+      evidenceUrl: config.evidenceUrl,
+      firstSeenAt: publishedAt || existingJob?.source?.firstSeenAt || today,
+      snapshotDate: today,
+      status: 'open',
+      note: config.note,
+    },
+    questionCategories: categories,
+    questionFocus: focusForTitle(title, tags, categories),
+  };
+}
+
+async function fetchFeishuCompanyJobs(config, existingCompany, today) {
+  const existing = existingJobMaps(existingCompany);
+  const jobBatches = await Promise.all(
+    config.sources.map(source => fetchFeishuJobPosts(source).then(jobs => jobs.map(job => ({ ...job, __source: source })))),
+  );
+  const jobs = jobBatches.flat();
+  const normalized = [];
+  const seen = new Set();
+
+  for (const job of jobs) {
+    const detailText = `${job.description || ''} ${job.requirement || ''}`;
+    if (!job.title || !isFeishuAgentOrLlmJob(job.title, job.job_subject?.i18n_name || job.job_subject?.name || '', detailText)) {
+      continue;
+    }
+
+    const sourceConfig = {
+      ...config,
+      pageUrl: job.__source.pageUrl,
+      sourceName: job.__source.sourceName || config.sourceName,
+      sourceTag: job.__source.sourceTag || config.sourceTag,
+    };
+    const normalizedJob = normalizeFeishuJob(job, existing, today, sourceConfig);
+    const key = normalizeText(`${normalizedJob.title}-${normalizedJob.location}`);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    normalized.push(normalizedJob);
+  }
+
+  return normalized;
+}
+
+function fetchMiniMaxJobs(existingCompany, today) {
+  return fetchFeishuCompanyJobs(
+    {
+      companyName: 'MiniMax',
+      prefix: 'mm',
+      evidenceUrl: MINIMAX_URL,
+      sourceName: 'MiniMax 官方招聘页（飞书）',
+      sourceTag: '社招',
+      note: '岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。',
+      sources: [
+        { pageUrl: MINIMAX_FEISHU_SOCIAL_URL, sourceName: 'MiniMax 社招官网（飞书）', sourceTag: '社招' },
+        { pageUrl: MINIMAX_FEISHU_CAMPUS_URL, sourceName: 'MiniMax 校招官网（飞书）', sourceTag: '校招' },
+      ],
+    },
+    existingCompany,
+    today,
+  );
+}
+
+function fetchZhipuJobs(existingCompany, today) {
+  return fetchFeishuCompanyJobs(
+    {
+      companyName: '智谱 AI',
+      prefix: 'zp',
+      evidenceUrl: ZHIPU_CAMPUS_URL,
+      sourceName: '智谱 AI 校招官网（飞书）',
+      sourceTag: '校招',
+      note: '岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。',
+      sources: [{ pageUrl: ZHIPU_CAMPUS_URL, sourceName: '智谱 AI 校招官网（飞书）', sourceTag: '校招' }],
+    },
+    existingCompany,
+    today,
+  );
 }
 
 function extractArrayAfter(code, marker) {
@@ -472,7 +846,45 @@ function applyKnownCompanyLogos(data) {
   }
 }
 
-function buildXiaomiQuestions(data) {
+function backfillStaticCompanySources(data, today) {
+  const sourceMeta = {
+    huawei: {
+      company: '华为',
+      sourceUrl: 'https://career.huawei.com/reccampportal/',
+      sourceName: '历史整理样例（华为招聘官网待自动同步）',
+    },
+    bytedance: {
+      company: '字节跳动',
+      sourceUrl: 'https://jobs.bytedance.com/',
+      sourceName: '历史整理样例（字节招聘官网待自动同步）',
+    },
+    samsung: {
+      company: '三星电子',
+      sourceUrl: 'https://www.samsung.com/cn/about-us/careers/',
+      sourceName: '历史整理样例（三星招聘官网待自动同步）',
+    },
+  };
+
+  for (const company of data.companies || []) {
+    const meta = sourceMeta[company.id];
+    if (!meta) continue;
+    for (const job of company.jobs || []) {
+      if (job.source?.sourceName) continue;
+      job.source = {
+        company: meta.company,
+        sourceName: meta.sourceName,
+        sourceUrl: meta.sourceUrl,
+        evidenceUrl: meta.sourceUrl,
+        firstSeenAt: today,
+        snapshotDate: today,
+        status: 'manual-seed',
+        note: '该岗位来自早期题库种子数据，保留用于演示公司页和题库绑定；后续可接入官方招聘页自动同步后替换为实时来源。',
+      };
+    }
+  }
+}
+
+function buildCompanyQuestionSet(data, prefix) {
   const plan = [
     ['algo_rl', 20],
     ['engineering', 20],
@@ -490,9 +902,13 @@ function buildXiaomiQuestions(data) {
 
   return selected.slice(0, 80).map((question, index) => ({
     ...question,
-    id: `xm_${question.id}`,
+    id: `${prefix}_${question.id}`,
     number: index + 1,
   }));
+}
+
+function buildXiaomiQuestions(data) {
+  return buildCompanyQuestionSet(data, 'xm');
 }
 
 async function readJson(file) {
@@ -507,10 +923,16 @@ async function main() {
   const today = todayInChina();
   const data = await readJson(APP_DATA);
   const existingDeepSeek = data.companies.find(company => company.id === 'deepseek');
+  const existingKimi = data.companies.find(company => company.id === 'kimi');
+  const existingMiniMax = data.companies.find(company => company.id === 'minimax');
+  const existingZhipu = data.companies.find(company => company.id === 'zhipu');
   const existingXiaomi = data.companies.find(company => company.id === 'xiaomi');
 
-  const [deepSeekResult, xiaomiResult] = await Promise.allSettled([
+  const [deepSeekResult, kimiResult, miniMaxResult, zhipuResult, xiaomiResult] = await Promise.allSettled([
     fetchDeepSeekJobs(existingDeepSeek, today),
+    fetchKimiJobs(existingKimi, today),
+    fetchMiniMaxJobs(existingMiniMax, today),
+    fetchZhipuJobs(existingZhipu, today),
     fetchXiaomiTopicGroups().then(({ hash, groups }) => normalizeXiaomiJobs(groups, hash, existingXiaomi, today)),
   ]);
 
@@ -527,6 +949,57 @@ async function main() {
     });
   } else {
     console.warn(`[deepseek] skipped: ${deepSeekResult.reason?.message || 'no jobs fetched'}`);
+  }
+
+  if (kimiResult.status === 'fulfilled' && kimiResult.value.length) {
+    upsertCompany(data, 'kimi', {
+      name: 'Kimi',
+      logo: '🌙',
+      logoUrl: COMPANY_LOGO_URLS.kimi,
+      description: 'Moonshot AI 旗下 Kimi，大模型产品、算法、工程与应用岗位跟踪',
+      color: '#7C3AED',
+      gradient: 'from-[#7C3AED] to-[#22D3EE]',
+      jobs: kimiResult.value,
+      questionCount: 80,
+    });
+    data.companyQuestions = data.companyQuestions || {};
+    data.companyQuestions.kimi = buildCompanyQuestionSet(data, 'kimi');
+  } else {
+    console.warn(`[kimi] skipped: ${kimiResult.reason?.message || 'no jobs fetched'}`);
+  }
+
+  if (miniMaxResult.status === 'fulfilled' && miniMaxResult.value.length) {
+    upsertCompany(data, 'minimax', {
+      name: 'MiniMax',
+      logo: '〽️',
+      logoUrl: COMPANY_LOGO_URLS.minimax,
+      description: 'MiniMax 通用人工智能、Agent 产品、多模态与全球化业务岗位跟踪',
+      color: '#DE1F84',
+      gradient: 'from-[#DE1F84] to-[#FD6F32]',
+      jobs: miniMaxResult.value,
+      questionCount: 80,
+    });
+    data.companyQuestions = data.companyQuestions || {};
+    data.companyQuestions.minimax = buildCompanyQuestionSet(data, 'mm');
+  } else {
+    console.warn(`[minimax] skipped: ${miniMaxResult.reason?.message || 'no jobs fetched'}`);
+  }
+
+  if (zhipuResult.status === 'fulfilled' && zhipuResult.value.length) {
+    upsertCompany(data, 'zhipu', {
+      name: '智谱 AI',
+      logo: 'Z',
+      logoUrl: COMPANY_LOGO_URLS.zhipu,
+      description: '智谱 AI GLM、Agent、多模态、强化学习与工程研发岗位跟踪',
+      color: '#3370FF',
+      gradient: 'from-[#3370FF] to-[#06B6D4]',
+      jobs: zhipuResult.value,
+      questionCount: 80,
+    });
+    data.companyQuestions = data.companyQuestions || {};
+    data.companyQuestions.zhipu = buildCompanyQuestionSet(data, 'zp');
+  } else {
+    console.warn(`[zhipu] skipped: ${zhipuResult.reason?.message || 'no jobs fetched'}`);
   }
 
   if (xiaomiResult.status === 'fulfilled' && xiaomiResult.value.length) {
@@ -547,6 +1020,7 @@ async function main() {
   }
 
   applyKnownCompanyLogos(data);
+  backfillStaticCompanySources(data, today);
 
   const summary = data.companies.map(company => `${company.id}:${company.jobs.length}`).join(', ');
   console.log(`Recruiting sync summary: ${summary}`);

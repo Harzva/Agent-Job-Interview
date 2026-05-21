@@ -21,10 +21,10 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="font-display font-bold text-lg text-[#F8FAFC] mb-2">
-              DeepSeek Agent 岗位分析
+              Agent 岗位面试题库
             </h3>
             <p className="text-sm text-[#64748B] leading-relaxed">
-              基于 DeepSeek 2026.04.27 Agent 方向招聘信息深度解析，覆盖算法、工程、产品、系统全栈能力体系
+              基于多家公司官方招聘页和公开岗位快照，覆盖 Agent、大模型、算法、工程、产品与系统能力体系
             </p>
             <div className="flex gap-4 mt-4">
               <a href="#" className="text-[#64748B] hover:text-[#0EA5E9] transition-colors">
@@ -73,7 +73,7 @@ export default function Footer() {
 
         <div className="border-t border-[#1E293B] pt-6 text-center">
           <p className="text-xs text-[#64748B]">
-            &copy; 2026 Agent 岗位面试题库 | 数据来源：DeepSeek、小米等官方招聘页与公开岗位快照
+            &copy; 2026 Agent 岗位面试题库 | 数据来源：DeepSeek、Kimi、MiniMax、智谱、小米等官方招聘页与公开岗位快照
           </p>
         </div>
       </div>

@@ -3,8 +3,8 @@ name: Update Recruiting Jobs
 on:
   workflow_dispatch:
   schedule:
-    # 09:17 Asia/Shanghai. GitHub cron uses UTC.
-    - cron: '17 1 * * *'
+    # 09:17 and 21:17 Asia/Shanghai. GitHub cron uses UTC.
+    - cron: '17 1,13 * * *'
 
 permissions:
   contents: write
@@ -44,4 +44,5 @@ jobs:
           fi
 
           git commit -m "chore: refresh recruiting jobs"
+          git pull --rebase origin main
           git push

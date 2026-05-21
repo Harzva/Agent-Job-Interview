@@ -80,14 +80,14 @@ const themeSlides = [
     label: '白底厂商墙',
     eyebrow: 'PROVIDER MARQUEE',
     title: '公司岗位像 Provider 一样流动展示',
-    subtitle: '借鉴模型厂商滑动墙，把 DeepSeek、华为、字节、三星的岗位放进动态信息带。',
+    subtitle: '借鉴模型厂商滑动墙，把 DeepSeek、Kimi、MiniMax、智谱、小米等岗位放进动态信息带。',
     primary: '#2563EB',
     secondary: '#111827',
     background:
       'radial-gradient(ellipse at 18% 18%, rgba(37, 99, 235, 0.12), transparent 30%), radial-gradient(ellipse at 84% 52%, rgba(20, 184, 166, 0.10), transparent 36%), linear-gradient(180deg, #FFFFFF 0%, #F7FAFC 100%)',
     stats: [
-      ['4', '公司'],
-      ['20+', '岗位'],
+      ['8+', '公司'],
+      ['200+', '岗位'],
       ['∞', '横向浏览'],
     ],
   },
@@ -105,7 +105,7 @@ const themeSlides = [
       'radial-gradient(ellipse at 18% 20%, rgba(163, 230, 53, 0.22), transparent 34%), radial-gradient(ellipse at 82% 50%, rgba(56, 189, 248, 0.20), transparent 36%), linear-gradient(135deg, #07110F 0%, #0B1020 56%, #090A12 100%)',
     stats: [
       ['14', '展示方式'],
-      ['5', '公司素材'],
+      ['8+', '公司素材'],
       ['Pages', '独立站点'],
     ],
   },
@@ -191,7 +191,7 @@ export default function HomePage({ companies }: Props) {
             transition={{ duration: 0.6, delay: 0.9 }}
             className="mb-8 text-base text-[#94A3B8] md:text-lg"
           >
-            覆盖 DeepSeek、华为、字节跳动、三星电子 Agent 方向岗位与面试真题
+            覆盖 DeepSeek、Kimi、MiniMax、智谱、小米等 Agent 与大模型方向岗位和面试真题
           </motion.p>
 
           <motion.div
