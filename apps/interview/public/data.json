@@ -224,6 +224,41 @@
             "基础设施",
             "工程实现"
           ]
+        },
+        {
+          "id": "ds_26d714aee7",
+          "title": "大模型平台运营",
+          "salary": "官方未公开",
+          "location": "杭州",
+          "level": "开放岗位",
+          "tags": [
+            "大模型"
+          ],
+          "description": "大模型平台运营，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
+          "source": {
+            "company": "DeepSeek",
+            "sourceName": "DeepSeek 官方招聘页（Moka）",
+            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "firstSeenAt": "2026-05-20",
+            "snapshotDate": "2026-05-21",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "product",
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "大模型",
+            "产品策略",
+            "需求拆解",
+            "工程实现",
+            "系统落地",
+            "模型训练"
+          ]
         }
       ],
       "questionCount": 518,
@@ -2744,7 +2779,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2777,7 +2812,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2812,7 +2847,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2844,7 +2879,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2879,7 +2914,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2913,7 +2948,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2944,7 +2979,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2981,7 +3016,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3015,7 +3050,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3047,7 +3082,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3082,7 +3117,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-21",
+            "snapshotDate": "2026-05-22",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3146,6 +3181,45 @@
             "Agent",
             "大模型",
             "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7641967185192421678",
+          "title": "AI Agent 平台研发工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "团队介绍 我们正在构建企业级 AI Agent 评测与管理平台，覆盖模型管理、Agent 调试、评测任务调度、Pipeline 编排、沙盒执行等完整链路。平台服务于内部多个 AI 团队，日均承载大量 LLM 调用与 Agent 评测任务，直",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641967185192421678",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-20",
+            "snapshotDate": "2026-05-22",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
             "数据闭环"
           ]
         },
@@ -5086,44 +5160,6 @@
             "社招",
             "Agent",
             "算法研究",
-            "产品策略",
-            "需求拆解"
-          ]
-        },
-        {
-          "id": "mm_7509445728114280723",
-          "title": "AI基础设施系统架构师（Tech Lead）",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "基础设施"
-          ],
-          "description": "1. 主导 AI IaaS 平台架构设计 — 负责 GPU 算力资源池化、多集群调度、弹性扩缩容等核心能力建设，提供一致性、可扩展、高可靠的平台技术底座 2. 构建基础设施管理平台 — 规划并推进覆盖资产管理、容量管理、故障自愈、可观测性的",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7509445728114280723",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-05-28",
-            "snapshotDate": "2026-05-22",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "基础设施",
             "产品策略",
             "需求拆解"
           ]
