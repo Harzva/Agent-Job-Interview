@@ -3146,45 +3146,6 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
-          "id": "mm_7642261783000975626",
-          "title": "AI Agent 业务负责人",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究"
-          ],
-          "description": "1. 负责 MiniMax Agent 相关业务方向的整体规划与推进，覆盖 ToC 和 ToB 场景； 2. 结合大模型、Agent、工具调用、多模态等技术能力，判断产品机会和业务落地方向； 3. 拆解用户需求和业务目标，定义产品路线、关键",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7642261783000975626",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-24",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7641967185192421678",
           "title": "AI Agent 平台研发工程师",
           "salary": "官方未公开",
@@ -3220,6 +3181,45 @@
             "Agent",
             "大模型",
             "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7642261783000975626",
+          "title": "AI Agent 业务负责人",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "1. 负责 MiniMax Agent 相关业务方向的整体规划与推进，覆盖 ToC 和 ToB 场景； 2. 结合大模型、Agent、工具调用、多模态等技术能力，判断产品机会和业务落地方向； 3. 拆解用户需求和业务目标，定义产品路线、关键",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7642261783000975626",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-21",
+            "snapshotDate": "2026-05-24",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究",
             "数据闭环"
           ]
         },
