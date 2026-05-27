@@ -224,41 +224,6 @@
             "基础设施",
             "工程实现"
           ]
-        },
-        {
-          "id": "ds_26d714aee7",
-          "title": "大模型平台运营",
-          "salary": "官方未公开",
-          "location": "杭州",
-          "level": "开放岗位",
-          "tags": [
-            "大模型"
-          ],
-          "description": "大模型平台运营，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-05-20",
-            "snapshotDate": "2026-05-25",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "大模型",
-            "产品策略",
-            "需求拆解",
-            "工程实现",
-            "系统落地",
-            "模型训练"
-          ]
         }
       ],
       "questionCount": 518,
@@ -2779,7 +2744,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2812,7 +2777,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2847,7 +2812,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2879,7 +2844,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2914,7 +2879,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2948,7 +2913,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2979,7 +2944,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3016,7 +2981,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3050,7 +3015,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3082,7 +3047,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3117,7 +3082,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3146,6 +3111,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7644454219160439090",
+          "title": "AI 网关平台研发工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "基础设施"
+          ],
+          "description": "MiniMax 是国内头部大模型公司，开放平台是商业化的核心战场。Token 是大模型公司的\"货币\"——怎么让开发者用起来、怎么让企业愿意付费、怎么设计商业模式让收入规模化，这个岗位直接决定公司商业化的天花板。 职位描述： 1. 负责 AI",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644454219160439090",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-27",
+            "snapshotDate": "2026-05-28",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "基础设施",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7642261783000975626",
           "title": "AI Agent 业务负责人",
           "salary": "官方未公开",
@@ -3165,7 +3169,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7642261783000975626",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3204,7 +3208,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641967185192421678",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3243,7 +3247,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641891406751287603",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3282,7 +3286,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641164325705304329",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3321,7 +3325,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641155155795298596",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3360,7 +3364,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641152676122052891",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3399,7 +3403,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641148682688055595",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3438,7 +3442,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641148041870117126",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3477,7 +3481,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641143528681048346",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3516,7 +3520,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641143528680540442",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3555,7 +3559,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641124619067410697",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3594,7 +3598,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641118825673247027",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3633,7 +3637,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641108307957270820",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3672,7 +3676,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7638957599781767466",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-12",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3711,7 +3715,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7638320102106040627",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3750,7 +3754,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7637364748019583275",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-08",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3789,7 +3793,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7637362947051751707",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-08",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3826,7 +3830,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7636745615666727209",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-06",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3865,7 +3869,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7636616420796664106",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-06",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3904,7 +3908,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7628896086698346803",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-15",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3943,7 +3947,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7628599263995906342",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-14",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3981,7 +3985,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7628594083364309298",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-14",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4020,7 +4024,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627073781622065417",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4059,7 +4063,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627072434231691562",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4098,7 +4102,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627072334449871167",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4137,7 +4141,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627071736828332329",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4175,7 +4179,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623785911113304366",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-01",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4214,7 +4218,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623680630991505705",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-01",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4253,7 +4257,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7615118143853906222",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-03-09",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4292,7 +4296,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7611787936426641718",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-02-28",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4331,7 +4335,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7605193027439135030",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-02-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4369,7 +4373,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7604478949468424498",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-02-08",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4408,7 +4412,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7602881314336868658",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-02-04",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4447,7 +4451,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7602177427066194218",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-02-02",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4486,7 +4490,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7601038522539493659",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-30",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4525,7 +4529,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7600446475977738534",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-28",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4564,7 +4568,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7598036042735110446",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-22",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4603,7 +4607,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7597417180867774747",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4642,7 +4646,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7594434121872689427",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-12",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4681,7 +4685,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7594421595000981803",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-12",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4720,7 +4724,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7593260014921173294",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-09",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4759,7 +4763,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7585094510305511707",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-12-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4796,7 +4800,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7585093953717340454",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-12-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4835,7 +4839,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7579523111286147366",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-12-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4874,7 +4878,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7562025186561558834",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-10-17",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4913,7 +4917,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7560556380446476607",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-10-13",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4952,7 +4956,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7550953276755331354",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-09-17",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4989,7 +4993,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7543165712157280566",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-08-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5028,46 +5032,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7529873474383268122",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-07-22",
-            "snapshotDate": "2026-05-27",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7522824953076058410",
-          "title": "大模型流量调度工程师",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "1. 负责大规模的的流量调度框架设计与开发。 2. 负责提升流量分发系统的效率，在稳定性，吞吐，延迟等多维指标中构建优化目标进行合理取舍。 3. 负责负载均衡算法的研发与迭代，能够根据多种类型的流量负载Pattern进行合理选型以及调优。 ",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7522824953076058410",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-07-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5106,7 +5071,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7637357280128862527",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-08",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5145,7 +5110,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7636617817835522330",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-06",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5184,7 +5149,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7636617057124403492",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-05-06",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5222,7 +5187,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7625999641696667914",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-07",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5261,7 +5226,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7604792657089366323",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-02-09",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5300,7 +5265,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7600018637110888730",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5338,7 +5303,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7599868790181202217",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5377,7 +5342,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7598025665137068324",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-01-22",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5416,7 +5381,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7573988660926105902",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5455,7 +5420,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7573984779819010313",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5494,7 +5459,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7573981542068144410",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5533,7 +5498,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7573944297197275411",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5572,7 +5537,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7573261059323316516",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-16",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5611,7 +5576,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7573258992060909867",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-16",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5650,7 +5615,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7573257185578617142",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-16",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5689,7 +5654,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7568711957404404009",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-04",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5728,7 +5693,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7568458077637577001",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5767,7 +5732,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7568457243662829830",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-11-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5806,7 +5771,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7566935487341201705",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-10-30",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5845,7 +5810,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7561044761327651098",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-10-14",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5884,7 +5849,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7560558565114546473",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-10-13",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5923,7 +5888,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7549395711529715995",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-09-13",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5962,7 +5927,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7548409696949012775",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-09-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6001,7 +5966,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7547929965531679027",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-09-09",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6040,7 +6005,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7546180826527893810",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-09-04",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6079,7 +6044,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7535804843156736299",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-08-07",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6118,7 +6083,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7535804207291451657",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-08-07",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6157,7 +6122,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7532049295131511082",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-07-28",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6196,7 +6161,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7514653361226008844",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-06-11",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6234,7 +6199,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7508644072077674778",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-05-26",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6273,7 +6238,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7505309900911053065",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-05-17",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6312,7 +6277,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7498620518880446747",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-29",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6351,7 +6316,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7498581238874900763",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-29",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6390,7 +6355,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497973037862979867",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6429,7 +6394,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497828934399346970",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6467,7 +6432,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497828511979342143",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6506,7 +6471,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497187055459879177",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6544,7 +6509,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497158955563632915",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6582,7 +6547,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497146129031055655",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6621,7 +6586,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497141440938723621",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6660,7 +6625,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497103082154281266",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6699,7 +6664,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497098391874668836",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6738,7 +6703,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497096058259884307",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6777,7 +6742,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497088093670279435",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6816,7 +6781,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497087604030998803",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6854,7 +6819,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497087330105887013",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6893,7 +6858,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7496888837194664201",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-24",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6932,7 +6897,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7496886549856405801",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-24",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6971,7 +6936,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7496886549851392319",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-24",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7010,7 +6975,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7491156391487818021",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2025-04-09",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7049,7 +7014,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7403616380086372645",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2024-08-16",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7088,7 +7053,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7369589252642179354",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2024-05-16",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7127,7 +7092,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7352924347043088703",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2024-04-01",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7166,7 +7131,7 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7352871192115857674",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2024-04-01",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7217,7 +7182,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7615179145912240411",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2026-03-09",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7256,7 +7221,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7613687369498495274",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2026-03-05",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7295,7 +7260,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7613327979423435049",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2026-03-04",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7334,7 +7299,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7611427366158584106",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2026-02-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7373,7 +7338,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7605060055117367562",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2026-02-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7411,7 +7376,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7598126877463185710",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2026-01-22",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7450,7 +7415,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7592508237301713195",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2026-01-07",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7489,7 +7454,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7582492088500848906",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-12-11",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7528,7 +7493,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7582143980990728491",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-12-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7566,7 +7531,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7581841210869352723",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-12-09",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7602,7 +7567,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7581311109194942756",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-12-08",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7640,7 +7605,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7574652546665646382",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-11-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7679,7 +7644,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7571738482222909747",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-11-12",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7718,7 +7683,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7563604293749098779",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7757,7 +7722,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7563603632534702399",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7796,7 +7761,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7563600392874461449",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7835,7 +7800,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7563600134048499987",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7874,7 +7839,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7563600125521955111",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7913,7 +7878,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7563599319066347815",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7952,7 +7917,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7563598480482208041",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-21",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -7991,7 +7956,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7561376108466751780",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-15",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8030,7 +7995,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7561334852868475145",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-15",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8069,7 +8034,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7559522692794173734",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-10-10",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8108,7 +8073,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545758745432361235",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8147,7 +8112,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545753378387904810",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8186,7 +8151,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545752735473502490",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8225,7 +8190,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545752690946443529",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8264,7 +8229,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545750346741664054",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8303,7 +8268,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545682103317465371",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8342,7 +8307,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545681156948134185",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-03",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8381,7 +8346,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7545060369321740570",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-09-01",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8420,7 +8385,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7540567617377454377",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-08-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8459,7 +8424,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7540565769382725926",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-08-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8498,7 +8463,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7540484619498768694",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-08-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8537,7 +8502,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7539835713145358633",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-08-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8576,7 +8541,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7539834541713459475",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-08-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8615,7 +8580,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7539833581066586378",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-08-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8654,7 +8619,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7539831450615482678",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-08-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8693,7 +8658,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7532442743672097062",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-07-29",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8732,7 +8697,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7532442741579385115",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-07-29",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8771,7 +8736,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7532442163956812082",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-07-29",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8810,7 +8775,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7530590286038075686",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-07-24",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8849,7 +8814,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7528270132675103027",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-07-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8888,7 +8853,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7516755890822859020",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-06-17",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8927,7 +8892,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7514883436093098290",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-06-12",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -8966,7 +8931,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7514877014038546729",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-06-12",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9005,7 +8970,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7512401015250323724",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-06-05",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9044,7 +9009,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7506472698182011190",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-05-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9083,7 +9048,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7501275022700136767",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-05-06",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9122,7 +9087,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7501273419658512649",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-05-06",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9161,7 +9126,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7501272573615884553",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-05-06",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9200,7 +9165,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7473383809050167602",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-02-20",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9239,7 +9204,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7467916959821728019",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2025-02-05",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9278,7 +9243,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7437046871702882598",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2024-11-14",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9317,7 +9282,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7433365520022243595",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2024-11-04",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9356,7 +9321,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7433361130652879142",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2024-11-04",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9395,7 +9360,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7430332559868954921",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2024-10-27",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9434,7 +9399,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7398119154333452580",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2024-08-01",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -9473,7 +9438,7 @@
             "sourceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/position/detail/7347579802536511783",
             "evidenceUrl": "https://zhipu-ai.jobs.feishu.cn/zhipucampus/",
             "firstSeenAt": "2024-03-18",
-            "snapshotDate": "2026-05-27",
+            "snapshotDate": "2026-05-28",
             "status": "open",
             "note": "岗位由 GitHub Actions 从智谱 AI 官方飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
