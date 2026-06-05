@@ -28,7 +28,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-03",
+            "snapshotDate": "2026-06-05",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -65,7 +65,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-03",
+            "snapshotDate": "2026-06-05",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -104,7 +104,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-03",
+            "snapshotDate": "2026-06-05",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -138,7 +138,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2021-12-27",
-            "snapshotDate": "2026-05-29",
+            "snapshotDate": "2026-06-05",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -176,7 +176,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-04-23",
-            "snapshotDate": "2026-06-03",
+            "snapshotDate": "2026-06-05",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -192,37 +192,6 @@
             "监控告警",
             "基础设施",
             "工程实现"
-          ]
-        },
-        {
-          "id": "ds_838d0dd8f3",
-          "title": "深度学习研究员（北京）",
-          "salary": "官方未公开",
-          "location": "北京",
-          "level": "高级",
-          "tags": [
-            "算法研究"
-          ],
-          "description": "深度学习研究员（北京），来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2023-06-04",
-            "snapshotDate": "2026-05-26",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "算法研究",
-            "模型训练",
-            "算法推理",
-            "项目复盘"
           ]
         }
       ],
