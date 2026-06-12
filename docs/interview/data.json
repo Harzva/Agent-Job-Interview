@@ -3158,45 +3158,6 @@
           ]
         },
         {
-          "id": "mm_7631108359181175049",
-          "title": "系统研发工程师（云原生方向）",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "- 参与建设和维护 AI Infra 相关的平台系统，包括但不限于 CMDB（配置管理数据库）、流程引擎、工单系统、故障流转系统、业务资源平台、底层资产平台等； - 负责平台系统的架构设计、核心模块研发、性能优化与可扩展性改造，提升系统稳定",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7631108359181175049",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-04-21",
-            "snapshotDate": "2026-06-12",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7646712889688557830",
           "title": "前端工程师（基础架构团队）",
           "salary": "官方未公开",
@@ -4354,6 +4315,45 @@
             "engineering",
             "algo_rl",
             "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7631108359181175049",
+          "title": "系统研发工程师（云原生方向）",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "- 参与建设和维护 AI Infra 相关的平台系统，包括但不限于 CMDB（配置管理数据库）、流程引擎、工单系统、故障流转系统、业务资源平台、底层资产平台等； - 负责平台系统的架构设计、核心模块研发、性能优化与可扩展性改造，提升系统稳定",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7631108359181175049",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-21",
+            "snapshotDate": "2026-06-12",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
           ],
           "questionFocus": [
             "全职",
