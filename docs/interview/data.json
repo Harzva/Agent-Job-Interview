@@ -28,7 +28,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-12",
+            "snapshotDate": "2026-06-15",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -65,7 +65,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-12",
+            "snapshotDate": "2026-06-15",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -104,7 +104,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-12",
+            "snapshotDate": "2026-06-15",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -138,7 +138,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-05-17",
-            "snapshotDate": "2026-06-12",
+            "snapshotDate": "2026-06-15",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -172,7 +172,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2021-12-27",
-            "snapshotDate": "2026-06-12",
+            "snapshotDate": "2026-06-15",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -210,7 +210,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-04-23",
-            "snapshotDate": "2026-06-12",
+            "snapshotDate": "2026-06-15",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -5264,45 +5264,6 @@
             "数据策略",
             "产品策略",
             "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7598036042735110446",
-          "title": "Forward Deployed Engineer（前沿部署工程师）",
-          "salary": "官方未公开",
-          "location": "深圳/上海/北京/中国香港/旧金山",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "产品策略"
-          ],
-          "description": "MiniMax正在把大模型能力推向各行业最前线。你是那座桥——左手是模型能力，右手是客户真实需求，把AI从demo变成跑在生产环境里的东西。 你做什么 1. 嵌入战略客户团队，在客户系统内直接构建基于MiniMax大模型的生产级应用交付技术",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7598036042735110446",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-01-22",
-            "snapshotDate": "2026-06-16",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "产品策略",
-            "需求拆解"
           ]
         },
         {
