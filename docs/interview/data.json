@@ -3088,6 +3088,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7652221740030708019",
+          "title": "数据研发工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "1. 负责大规模离线数据仓库的模型设计，包括 `ODS / DWD / DWS / ADS`，保障数据一致性、完整性和可追溯性。 2. 深入业务场景，作为业务数据 BP 承接指标口径、数据分析、专题取数、报表建设和数据问题排查等需求，推动数",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7652221740030708019",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-06-17",
+            "snapshotDate": "2026-06-17",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7651914756832692516",
           "title": "数据算法 Coding 方向负责人",
           "salary": "官方未公开",
@@ -5217,45 +5256,6 @@
             "engineering",
             "algo_rl",
             "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "数据策略",
-            "基础设施",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7601038522539493659",
-          "title": "基础设施研发架构师",
-          "salary": "官方未公开",
-          "location": "上海",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "数据策略",
-            "基础设施"
-          ],
-          "description": "职位描述 1. 负责设计并构建服务于AI业务的基础设施即服务（IaaS）架构，主导从物理资源（计算、存储、网络）到标准化、服务化、可编排的逻辑资源的抽象、封装与管理体系。 2. 规划与设计IaaS核心控制平面与数据平面的整体架构，确保资源调",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7601038522539493659",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-01-30",
-            "snapshotDate": "2026-06-17",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
           ],
           "questionFocus": [
             "全职",
