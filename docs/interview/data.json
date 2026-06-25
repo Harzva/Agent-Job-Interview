@@ -40,117 +40,38 @@
           ]
         },
         {
-          "id": "ds_agent_algo",
-          "title": "Agent深度学习算法研究员",
-          "salary": "70-120K·16薪",
-          "location": "杭州/北京",
-          "level": "高级",
-          "tags": [
-            "RLHF",
-            "PPO/DPO",
-            "PyTorch",
-            "大模型对齐",
-            "Agent"
-          ],
-          "description": "Agent方向核心技术攻坚角色，关注规划、反思、工具调用与长程任务优化。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-24",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "RLHF",
-            "PPO/DPO",
-            "PyTorch",
-            "大模型对齐",
-            "Agent",
-            "模型训练"
-          ]
-        },
-        {
-          "id": "ds_agent_data",
-          "title": "Agent 数据策略工程师",
-          "salary": "50-80K·16薪",
+          "id": "ds_ec06ae1b72",
+          "title": "Agent Harness 产品经理",
+          "salary": "官方未公开",
           "location": "北京/杭州",
           "level": "中高级",
           "tags": [
-            "数据标注",
-            "评测设计",
-            "AI编程工具",
             "Agent",
-            "数据策略"
+            "产品策略"
           ],
-          "description": "Agent方向数据架构师与评测设计师，负责数据策略、任务拆解与质量闭环。",
+          "description": "Agent Harness 产品经理，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
           "source": {
             "company": "DeepSeek",
             "sourceName": "DeepSeek 官方招聘页（Moka）",
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-03-15",
+            "firstSeenAt": "2026-05-13",
             "snapshotDate": "2026-06-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
           "questionCategories": [
-            "data_strategy",
-            "engineering",
+            "product",
             "algo_rl",
             "behavior"
           ],
           "questionFocus": [
-            "数据标注",
-            "评测设计",
-            "AI编程工具",
             "Agent",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "ds_agent_fullstack",
-          "title": "Agent 全栈开发工程师",
-          "salary": "50-90K·16薪",
-          "location": "杭州/北京",
-          "level": "中高级",
-          "tags": [
-            "TypeScript",
-            "Python/Rust",
-            "Docker/K8s",
-            "MCP",
-            "Agent"
-          ],
-          "description": "Agent方向基础设施架构师，负责工具链、服务编排、前后端与部署链路。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-03-15",
-            "snapshotDate": "2026-06-22",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "engineering",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "TypeScript",
-            "Python/Rust",
-            "Docker/K8s",
-            "MCP",
-            "Agent",
-            "工程实现"
+            "产品策略",
+            "需求拆解",
+            "模型训练",
+            "算法推理",
+            "项目复盘"
           ]
         },
         {
@@ -188,75 +109,76 @@
           ]
         },
         {
-          "id": "ds_2b997d7dd4",
-          "title": "深度学习研发工程师（北京/杭州）",
+          "id": "ds_a254c49f19",
+          "title": "Code Agent 数据工程师",
           "salary": "官方未公开",
-          "location": "北京/杭州",
+          "location": "北京",
           "level": "中高级",
           "tags": [
-            "算法研究"
+            "Agent",
+            "数据策略"
           ],
-          "description": "深度学习研发工程师（北京/杭州），来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
+          "description": "Code Agent 数据工程师，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
           "source": {
             "company": "DeepSeek",
             "sourceName": "DeepSeek 官方招聘页（Moka）",
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2021-12-27",
-            "snapshotDate": "2026-06-22",
+            "firstSeenAt": "2026-06-24",
+            "snapshotDate": "2026-06-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
           "questionCategories": [
+            "data_strategy",
             "engineering",
             "algo_rl",
             "behavior"
           ],
           "questionFocus": [
-            "算法研究",
+            "Agent",
+            "数据策略",
+            "数据闭环",
+            "评测体系",
             "工程实现",
-            "系统落地",
-            "模型训练",
-            "算法推理",
-            "项目复盘"
+            "系统落地"
           ]
         },
         {
-          "id": "ds_ai_cluster_ops",
-          "title": "AI超算集群运维工程师",
-          "salary": "面议",
-          "location": "杭州",
-          "level": "基础设施",
+          "id": "ds_987b7704d3",
+          "title": "通用Agent数据产品经理（办公/生活/搜索）",
+          "salary": "官方未公开",
+          "location": "杭州/北京",
+          "level": "中高级",
           "tags": [
-            "GPU集群",
-            "InfiniBand/RDMA",
-            "Slurm/K8s",
-            "监控告警",
-            "基础设施"
+            "Agent",
+            "数据策略",
+            "产品策略"
           ],
-          "description": "负责 AI 超算集群日常运维、监控、故障恢复和资源调度。",
+          "description": "通用Agent数据产品经理（办公/生活/搜索），来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
           "source": {
             "company": "DeepSeek",
             "sourceName": "DeepSeek 官方招聘页（Moka）",
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-04-23",
-            "snapshotDate": "2026-06-22",
+            "firstSeenAt": "2026-06-24",
+            "snapshotDate": "2026-06-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
           "questionCategories": [
-            "engineering",
-            "system",
+            "data_strategy",
+            "product",
+            "algo_rl",
             "behavior"
           ],
           "questionFocus": [
-            "GPU集群",
-            "InfiniBand/RDMA",
-            "Slurm/K8s",
-            "监控告警",
-            "基础设施",
-            "工程实现"
+            "Agent",
+            "数据策略",
+            "产品策略",
+            "数据闭环",
+            "评测体系",
+            "需求拆解"
           ]
         }
       ],
@@ -5339,6 +5261,45 @@
           ]
         },
         {
+          "id": "mm_7352924347043088703",
+          "title": "大模型算法评测实习生",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "开放岗位",
+          "tags": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "1.负责AI大模型的评测系统的构建，与模型训练团队配合不断优化提升AI大模型效果。 2.深入理解大规模语言模型/多模态模型，参与自动化评测框架的开发、评测方案的制定与评测数据集的建设。 3.通过对模型进行全方面细致的评测，明确模型能力边界，",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7655253685333936403",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-06-25",
+            "snapshotDate": "2026-06-25",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7649312621921339691",
           "title": "大模型数据算法实习生-视频&声音",
           "salary": "官方未公开",
@@ -7475,45 +7436,6 @@
             "算法研究",
             "产品策略",
             "需求拆解"
-          ]
-        },
-        {
-          "id": "mm_7352924347043088703",
-          "title": "大模型算法评测实习生",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "1.负责AI大模型的评测系统的构建，与模型训练团队配合不断优化提升AI大模型效果。 2.深入理解大规模语言模型/多模态模型，参与自动化评测框架的开发、评测方案的制定与评测数据集的建设。 3.通过对模型进行全方面细致的评测，明确模型能力边界，",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7352924347043088703",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2024-04-01",
-            "snapshotDate": "2026-06-25",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
           ]
         },
         {
