@@ -4131,45 +4131,6 @@
           ]
         },
         {
-          "id": "mm_7642630999347874098",
-          "title": "UI/UX设计师（Agent方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "算法研究",
-            "产品策略"
-          ],
-          "description": "1. 负责 MiniMax Agent 相关产品的 UI/UX 设计，覆盖 Web、桌面端、移动端等多端场景； 2. 深入理解 AI Agent 产品形态，设计多轮对话、任务执行、工具调用、工作流、结果展示等核心交互体验； 3. 与产品、研",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7642630999347874098",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-22",
-            "snapshotDate": "2026-06-30",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "算法研究",
-            "产品策略",
-            "需求拆解"
-          ]
-        },
-        {
           "id": "mm_7642261783000975626",
           "title": "AI Agent 业务负责人",
           "salary": "官方未公开",
@@ -5294,6 +5255,83 @@
             "算法研究",
             "数据策略",
             "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7605193027439135030",
+          "title": "多模态AI创意技术官",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "开放岗位",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "全栈"
+          ],
+          "description": "1. AI创意工具制作：参与海螺视频创意工具制作，包括但不限于工具、模板等。 2. 洞察平台趋势与竞品：实时追踪全球 AI 视频行业动态、热门模型及竞品策略；拆解全网爆款内容，提炼可复用的创意逻辑与技术参数，反哺团队创作。 3. 模型评测与",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7605193027439135030",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-02-10",
+            "snapshotDate": "2026-06-30",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "全栈",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7604478949468424498",
+          "title": "大模型平台研发工程师-K8S",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型"
+          ],
+          "description": "1. 负责Minimax推理平台和机器学习平台的开发，支撑公司大模新业务高速迭代； 2. 负责超大规模复杂场景下GPU资源编排和调度，提升资源流转效率和GPU资源利用率； 3. 设计和实现大模型相关的基础设施、工程架构和工具链，保证基建稳定",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7604478949468424498",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-02-08",
+            "snapshotDate": "2026-06-30",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "system",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "工程实现",
+            "系统落地"
           ]
         },
         {
