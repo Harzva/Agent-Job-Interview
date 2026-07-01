@@ -3112,6 +3112,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7657480881347823915",
+          "title": "数据分析负责人",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "1. 支持 MiniMax 相关业务的数据分析工作，包括用户行为、功能使用、转化漏斗、留存等数据分析； 2. 协助搭建和维护数据看板，跟踪核心指标变化； 3. 通过 SQL 提取和分析数据，发现产品使用中的问题和优化机会； 4. 配合产品、",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7657480881347823915",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-01",
+            "snapshotDate": "2026-07-01",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7655214771168020742",
           "title": "AI 安全研究员",
           "salary": "官方未公开",
@@ -3191,7 +3230,7 @@
         },
         {
           "id": "mm_7655625825836960026",
-          "title": "AI数据分析师（Agent方向）",
+          "title": "AI数据分析师（Agent/开平）",
           "salary": "官方未公开",
           "location": "上海/北京",
           "level": "开放岗位",
@@ -3202,7 +3241,7 @@
             "大模型",
             "数据策略"
           ],
-          "description": "1. 支持 MiniMax Agent 相关业务的数据分析工作，包括用户行为、功能使用、转化漏斗、留存等数据分析； 2. 协助搭建和维护 Agent 产品的数据看板，跟踪核心指标变化； 3. 通过 SQL 提取和分析数据，发现产品使用中的问",
+          "description": "1. 支持 MiniMax 相关业务的数据分析工作，包括用户行为、功能使用、转化漏斗、留存等数据分析； 2. 协助搭建和维护数据看板，跟踪核心指标变化； 3. 通过 SQL 提取和分析数据，发现产品使用中的问题和优化机会； 4. 配合产品、",
           "source": {
             "company": "MiniMax",
             "sourceName": "MiniMax 社招官网（飞书）",
@@ -3654,45 +3693,6 @@
             "Agent",
             "大模型",
             "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7651540773884561718",
-          "title": "数据分析实习生（Agent方向）",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "1. 支持 MiniMax Agent 相关业务的数据分析工作，包括用户行为、功能使用、转化漏斗、留存等数据分析； 2. 协助搭建和维护 Agent 产品的数据看板，跟踪核心指标变化； 3. 通过 SQL 提取和分析数据，发现产品使用中的问",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7651540773884561718",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-15",
-            "snapshotDate": "2026-07-01",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "实习",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
             "数据闭环"
           ]
         },
@@ -4317,6 +4317,45 @@
             "大模型",
             "算法研究",
             "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7641164325705304329",
+          "title": "资深用户运营（Agent方向）",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "数据策略",
+            "产品策略"
+          ],
+          "description": "1. 负责 MiniMax Agent 产品的内容运营，围绕 AI Agent、AI 工具、产品能力和用户场景策划内容； 2. 持续关注 AI 产品、Agent 应用、行业热点和用户讨论，挖掘有传播潜力的内容方向； 3. 负责内容选题、脚本",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7641164325705304329",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-18",
+            "snapshotDate": "2026-07-01",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "数据策略",
+            "产品策略",
             "数据闭环"
           ]
         },
