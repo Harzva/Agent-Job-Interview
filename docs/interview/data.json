@@ -3112,6 +3112,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7657839836636743977",
+          "title": "大模型训练工程专家-稳定性方向",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "一、一句话定位 为大模型「预训练 + 后训练」的基础设施稳定性与效率负总责的资深工程师——横向拉通 GPU 算力、RDMA 网络、通信库、高性能存储、集群调度、训练任务生命周期等多个技术域，确保大规模训练不中断 / 少中断，并持续把有效训练",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7657839836636743977",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-02",
+            "snapshotDate": "2026-07-02",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7657480881347823915",
           "title": "数据分析负责人",
           "salary": "官方未公开",
@@ -4946,7 +4985,7 @@
           "id": "mm_7628896086698346803",
           "title": "大模型系统负责人",
           "salary": "官方未公开",
-          "location": "上海/北京",
+          "location": "上海/北京/杭州",
           "level": "高级",
           "tags": [
             "全职",
@@ -5331,42 +5370,197 @@
           ]
         },
         {
-          "id": "mm_7611787936426641718",
-          "title": "游戏开发专家（AI 训练方向）",
+          "id": "mm_7657847492860037414",
+          "title": "大模型数据链路工程师-2027届",
           "salary": "官方未公开",
-          "location": "上海",
-          "level": "高级",
+          "location": "北京/上海",
+          "level": "中高级",
           "tags": [
-            "全职",
-            "社招",
+            "正式",
+            "校招",
             "大模型",
             "算法研究",
             "数据策略"
           ],
-          "description": "用你的专业经验持续拉高 AI 在该领域的能力，参与模型训练全流程 - 评估模型能力：基于真实业务场景，系统性评估模型在游戏开发任务上的表现 - 编写示例代码：输出工程化、可复用的参考实现，作为模型学习的目标 - 制定改进建议：分析模型在不同",
+          "description": "1. 与算法团队深度合作，推进数据清洗、样本生成等场景下多阶段复杂 pipeline 的分布式引擎设计和落地； 2. 支撑大模型数据的清洗/分类/采样等场景，持续完善 Ray/Spark 内核功能及性能 3. 通过云原生技术栈搭建多云多地域",
           "source": {
             "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7611787936426641718",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7657847492860037414",
             "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-02-28",
+            "firstSeenAt": "2026-07-02",
             "snapshotDate": "2026-07-02",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
           "questionCategories": [
             "data_strategy",
-            "product",
             "engineering",
-            "algo_rl"
+            "algo_rl",
+            "system"
           ],
           "questionFocus": [
-            "全职",
-            "社招",
+            "正式",
+            "校招",
             "大模型",
             "算法研究",
             "数据策略",
             "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7657846664309229867",
+          "title": "MaaS 平台研发工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "1. 参与 MaaS 平台的模型服务化能力建设，支持多模型、多版本的管理与发布流程 2. 参与模型部署工具链开发，包括上线流水线、灰度发布、回滚、配置管理等自动化能力 3. 参与推理服务链路的基础优化，协助分析延迟、吞吐、资源利用率等指标并",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7657846664309229867",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-02",
+            "snapshotDate": "2026-07-02",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7657843944982956297",
+          "title": "视频训练研发工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "你将参与： 1. 参与大规模模型的训练框架 设计与研发，优化核心模块性能与系统效率； 2. 进行 高性能算子的设计与实现，探索计算图与算子融合、内存布局优化等方向； 3. 推动分布式训练过程的优化，包括并行策略、混合精度、显存管理等体系设计",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7657843944982956297",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-02",
+            "snapshotDate": "2026-07-02",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7657839993293064484",
+          "title": "存储系统研发工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "我们在做什么 大模型推理的 KVcache 管理是当前 AI Infra 最前沿的挑战之一。MiniMax 正在构建面向大模型推理场景的分布式存储与缓存系统。 你将做什么 1. 参与面向大模型推理的 KVcache 存储系统设计与研发 2.",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7657839993293064484",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-02",
+            "snapshotDate": "2026-07-02",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7657835978120235315",
+          "title": "容器网络研发工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "大模型",
+            "基础设施"
+          ],
+          "description": "我们在做什么 MiniMax 的千节点 GPU 集群运行在 K8S 之上，容器网络是连接模型训练与推理服务的血管。我们深度定制和研发面向 AI 负载的高性能容器网络系统。 你将做什么 1. 参与 K8S 容器网络方案设计与实现，覆盖 Und",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7657835978120235315",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-02",
+            "snapshotDate": "2026-07-02",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "system",
+            "behavior"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "大模型",
+            "基础设施",
+            "工程实现",
+            "系统落地"
           ]
         },
         {
@@ -6417,45 +6611,6 @@
             "大模型",
             "数据策略",
             "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7547929965531679027",
-          "title": "大模型系统研发工程师-应届生",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "正式",
-            "校招",
-            "大模型",
-            "算法研究",
-            "基础设施"
-          ],
-          "description": "部门介绍：https://vrfi1sk8a0.feishu.cn/wiki/HQq7wUuO3i2uKskL93jcCPCnnVg 这是一个面向关键大模型系统演进的核心岗位，如果你对性能调优、极致可扩展性、系统稳定性有追求，我们在这里等你",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7547929965531679027",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-09-09",
-            "snapshotDate": "2026-07-02",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "engineering",
-            "algo_rl",
-            "system",
-            "behavior"
-          ],
-          "questionFocus": [
-            "正式",
-            "校招",
-            "大模型",
-            "算法研究",
-            "基础设施",
-            "工程实现"
           ]
         },
         {
