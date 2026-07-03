@@ -3190,45 +3190,6 @@
           ]
         },
         {
-          "id": "mm_7655214771168020742",
-          "title": "AI 安全研究员",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究"
-          ],
-          "description": "团队简介 我们正在组建一支 AI 安全团队，使命是把顶尖的安全能力与大模型深度结合：一方面攻克高价值的安全难题，将专家经验沉淀为数据、Benchmark 与自动化框架，持续提升基础模型的网络安全能力；另一方面将这些能力落地到真实业务场景，守",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7655214771168020742",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-25",
-            "snapshotDate": "2026-07-03",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7655670314441902345",
           "title": "AGI 推理引擎工程师 — 下一代 KVCache 存储与缓存加速",
           "salary": "官方未公开",
@@ -3342,6 +3303,45 @@
             "Agent",
             "大模型",
             "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7655214771168020742",
+          "title": "AI 安全研究员",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "团队简介 我们正在组建一支 AI 安全团队，使命是把顶尖的安全能力与大模型深度结合：一方面攻克高价值的安全难题，将专家经验沉淀为数据、Benchmark 与自动化框架，持续提升基础模型的网络安全能力；另一方面将这些能力落地到真实业务场景，守",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7655214771168020742",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-06-25",
+            "snapshotDate": "2026-07-03",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究",
             "数据闭环"
           ]
         },
