@@ -5409,6 +5409,45 @@
           ]
         },
         {
+          "id": "mm_7633405814624373030",
+          "title": "AI推理框架工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "1. 极致推理服务构建：针对特定端到端推理任务，设计并实现符合 zero-overhead 极致标准的高性能推理服务。 2. 底层算力挖掘：深入底层体系结构，针对特定计算硬件（如 GPU 等）进行极限性能优化与算力挖掘。 3. 系统架构演进",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7633405814624373030",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-27",
+            "snapshotDate": "2026-07-07",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7657847492860037414",
           "title": "大模型数据链路工程师-2027届",
           "salary": "官方未公开",
