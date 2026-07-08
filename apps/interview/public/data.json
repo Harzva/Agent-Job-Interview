@@ -3112,6 +3112,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7660063893650606374",
+          "title": "AI评测工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "职位描述 参与大模型基模评测体系建设，主攻文本方向，建设包括但不限于code、agent、cowork等多场景评测集合，统筹全方位评测集合建设，公正正确科学地观测模型能力； 主导开发自动化、可扩展、可靠的评测系统和benchmark 搭建流",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7660063893650606374",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-08",
+            "snapshotDate": "2026-07-08",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7657839836636743977",
           "title": "大模型训练工程专家-稳定性方向",
           "salary": "官方未公开",
@@ -3881,240 +3920,6 @@
             "product",
             "engineering",
             "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7644896770740816154",
-          "title": "技术美术工程师（AI训练方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "岗位背景 我们在为大模型做「Web 应用开发」方向的后训练(SFT / RL / Agent 评测),其中 Web 3D 是单独拎出来的一条线 —— 涵盖着色器语言、图形API、上层工具库、资产,这一类任务对模型既考视觉审美又考数学和图形学",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644896770740816154",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-28",
-            "snapshotDate": "2026-07-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7644894987574741275",
-          "title": "桌面端工程师（AI训练方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "岗位背景 我们在为大模型做「移动 & 桌面 & Web 应用开发」方向的后训练(SFT / RL / Agent 评测)。桌面端是当前模型能力最薄、但用户最在意的一块 —— Windows / macOS / Linux 三个平台、Elec",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644894987574741275",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-28",
-            "snapshotDate": "2026-07-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7644894934855862547",
-          "title": "后端工程师（AI训练方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "岗位背景 我们在为大模型做「应用开发」方向的后训练(SFT / RL / Agent 评测)。后端是最碎的一个方向 —— 语言一堆(Go / Python / Node / Java / Rust / PHP …)、框架更碎、数据库 / 消",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644894934855862547",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-28",
-            "snapshotDate": "2026-07-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7644894058380708159",
-          "title": "Web 工程师（AI训练方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "岗位背景 我们在为大模型做「移动 & 桌面 & Web 应用开发」方向的后训练(SFT / RL / Agent 评测)。Web 是模型现在能力最强、用户预期最高的一个方向 —— 既要写 React / Vue / Solid 组件,又要让",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644894058380708159",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-28",
-            "snapshotDate": "2026-07-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7644877592579787034",
-          "title": "iOS 工程师（AI训练方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "岗位背景 我们在为大模型做「移动应用开发」方向的后训练(SFT / RL / Agent 评测)。iOS 是一个比 Android 更\"封闭、更挑工具链\"的方向 —— 只能在 Mac 上构建、只有 Apple 自家的模拟器、签名 / Pro",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644877592579787034",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-28",
-            "snapshotDate": "2026-07-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7644875960659904810",
-          "title": "安卓工程师（AI训练方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "岗位背景 我们在为大模型做「移动应用开发」方向的后训练(SFT / RL / Agent 评测)。模型能力的上限,本质上由训练数据和评测体系的质量决定 —— 尤其在 Android 这种\"既要写代码、又要在真实设备上跑得起来\"的领域,造数据",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644875960659904810",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-28",
-            "snapshotDate": "2026-07-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
           ],
           "questionFocus": [
             "全职",
@@ -5367,6 +5172,84 @@
             "全栈",
             "基础设施",
             "产品策略"
+          ]
+        },
+        {
+          "id": "mm_7611787936426641718",
+          "title": "游戏开发专家（AI 训练方向）",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "用你的专业经验持续拉高 AI 在该领域的能力，参与模型训练全流程 - 评估模型能力：基于真实业务场景，系统性评估模型在游戏开发任务上的表现 - 编写示例代码：输出工程化、可复用的参考实现，作为模型学习的目标 - 制定改进建议：分析模型在不同",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7611787936426641718",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-02-28",
+            "snapshotDate": "2026-07-08",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7660068187455949098",
+          "title": "AI评测实习生",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "开放岗位",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "职位描述 参与多模态大模型评测体系建设，引入开源、自建评测集，补充对模型能力的观测视角，提升观测力 参与开发自动化、可扩展、可靠的评测系统，提高自动评估/分析的占比，缩短评测周期; 针对阶段性迭代重点、行业变化，持续探索模型/Agent能力",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7660068187455949098",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-08",
+            "snapshotDate": "2026-07-08",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
           ]
         },
         {
