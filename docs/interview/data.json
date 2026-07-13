@@ -3892,45 +3892,6 @@
           ]
         },
         {
-          "id": "mm_7646635669703985414",
-          "title": "IT 工程师 - AI 效能方向",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "为什么加入我们 1. 用 AI 重新定义 IT ：不是传统的工单驱动模式——你要用 AI Agent、自动化工作流替代一切重复劳动，把 IT 做成\"无感服务\" 2. 从零搭建安全体系：公司处于安全建设的起点，你将有机会主导设计整套安全规范和",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7646635669703985414",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-02",
-            "snapshotDate": "2026-07-13",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7644858427722500415",
           "title": "系统内核工程师（Linux Kernel / OS）",
           "salary": "官方未公开",
@@ -4006,6 +3967,45 @@
             "大模型",
             "数据策略",
             "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7642630999347874098",
+          "title": "UI/UX设计师（Agent方向）",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "开放岗位",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "算法研究",
+            "产品策略"
+          ],
+          "description": "1. 负责 MiniMax Agent 相关产品的 UI/UX 设计，覆盖 Web、桌面端、移动端等多端场景； 2. 深入理解 AI Agent 产品形态，设计多轮对话、任务执行、工具调用、工作流、结果展示等核心交互体验； 3. 与产品、研",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7642630999347874098",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-22",
+            "snapshotDate": "2026-07-13",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "product",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "算法研究",
+            "产品策略",
+            "需求拆解"
           ]
         },
         {
