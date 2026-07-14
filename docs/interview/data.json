@@ -2826,41 +2826,6 @@
           ]
         },
         {
-          "id": "kimi_5c7c240eb4",
-          "title": "Agent 全栈工程师",
-          "salary": "官方未公开",
-          "location": "官方未标注",
-          "level": "中高级",
-          "tags": [
-            "Agent",
-            "全栈"
-          ],
-          "description": "Agent 全栈工程师，来自 Kimi / Moonshot AI 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "Kimi / Moonshot AI",
-            "sourceName": "Kimi 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
-            "evidenceUrl": "https://careers.kimi.com/",
-            "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-07-14",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "engineering",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "Agent",
-            "全栈",
-            "工程实现",
-            "系统落地",
-            "模型训练",
-            "算法推理"
-          ]
-        },
-        {
           "id": "kimi_4f53521e4c",
           "title": "AI Native 产品经理（C端 / Agent方向）",
           "salary": "官方未公开",
@@ -3853,6 +3818,84 @@
             "Agent",
             "数据策略",
             "前端",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7644894987574741275",
+          "title": "桌面端工程师（AI训练方向）",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "岗位背景 我们在为大模型做「移动 & 桌面 & Web 应用开发」方向的后训练(SFT / RL / Agent 评测)。桌面端是当前模型能力最薄、但用户最在意的一块 —— Windows / macOS / Linux 三个平台、Elec",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644894987574741275",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-28",
+            "snapshotDate": "2026-07-14",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7644875960659904810",
+          "title": "安卓工程师（AI训练方向）",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "岗位背景 我们在为大模型做「移动应用开发」方向的后训练(SFT / RL / Agent 评测)。模型能力的上限,本质上由训练数据和评测体系的质量决定 —— 尤其在 Android 这种\"既要写代码、又要在真实设备上跑得起来\"的领域,造数据",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7644875960659904810",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-28",
+            "snapshotDate": "2026-07-14",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
             "数据闭环"
           ]
         },
@@ -5059,6 +5102,122 @@
             "算法研究",
             "数据策略",
             "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7662376183711222058",
+          "title": "可观测平台研发工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "1. 参与 MiniMax 面向大模型训练、推理和 Agent 场景的新一代可观测平台建设。 2. 参与指标、日志、Trace、事件等数据采集、存储、查询和分析链路开发。 3. 建设硬件、网络、存储、训练作业、推理服务等多层信号的统一观测能",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7662376183711222058",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-14",
+            "snapshotDate": "2026-07-14",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7662375990605908265",
+          "title": "DBA 数据库工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "大模型",
+            "数据策略",
+            "基础设施"
+          ],
+          "description": "1. 参与 MiniMax 核心业务数据库体系建设，支撑大模型产品、训练平台、推理平台等业务稳定运行。 2. 参与数据库高可用、备份恢复、容量治理、性能优化和自动化运维平台建设。 3. 建设数据库监控、告警、巡检和故障诊断工具，提升数据库问",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7662375990605908265",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-14",
+            "snapshotDate": "2026-07-14",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "大模型",
+            "数据策略",
+            "基础设施",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7662375475701188905",
+          "title": "云原生 DevOps 研发工程师-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "Agent",
+            "基础设施"
+          ],
+          "description": "1. 参与 MiniMax 云原生 DevOps 平台建设，支撑研发、训练、推理、业务服务的高效交付。 2. 建设 CI/CD、GitOps、环境管理、发布系统、配置管理和自动化运维工具链。 3. 基于 Kubernetes、ArgoCD、",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7662375475701188905",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-14",
+            "snapshotDate": "2026-07-14",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "system",
+            "behavior"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "Agent",
+            "基础设施",
+            "工程实现",
+            "系统落地"
           ]
         },
         {
