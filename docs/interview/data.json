@@ -25,7 +25,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-15",
+            "snapshotDate": "2026-07-17",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -160,7 +160,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-15",
+            "snapshotDate": "2026-07-17",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -197,7 +197,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-15",
+            "snapshotDate": "2026-07-17",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3042,6 +3042,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7663382571132471558",
+          "title": "K8S研发工程师-集群管理方向",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "测试开发",
+            "基础设施"
+          ],
+          "description": "一、一句话定位 参与建设服务大模型训练、推理与在线业务的 Kubernetes 集群管理平台，用自动化和软件工程手段解决集群创建、升级、扩缩容、节点管理与稳定性问题，让大规模集群可标准化交付、可观测、可恢复。 二、为什么这个岗位重要 Kub",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7663382571132471558",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-17",
+            "snapshotDate": "2026-07-17",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "system",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "测试开发",
+            "基础设施",
+            "工程实现"
+          ]
+        },
+        {
           "id": "mm_7663024680303872306",
           "title": "高级测试开发工程师-Agent应用",
           "salary": "官方未公开",
@@ -5145,18 +5184,18 @@
         },
         {
           "id": "mm_7615118143853906222",
-          "title": "K8S开发工程师-Devops",
+          "title": "K8S研发工程师-DevOps方向",
           "salary": "官方未公开",
           "location": "北京/上海",
           "level": "中高级",
           "tags": [
             "全职",
             "社招",
+            "Agent",
             "大模型",
-            "全栈",
-            "基础设施"
+            "数据策略"
           ],
-          "description": "一、我们在做什么 在 MiniMax，基础设施不是\"支撑业务的后台\"，而是驱动 AGI产品快速迭代的核心引擎。 我们的 DevOps 工作正在构建支撑大规模 AI 训练、推理与产品交付的云原生基础设施，让每一次模型迭代、每一次产品发布都能快",
+          "description": "一、一句话定位 参与建设面向大模型训练、推理与在线业务的 Kubernetes 研发交付平台，用代码打通从代码提交、构建、测试到灰度发布、回滚和运行反馈的完整链路，让业务交付更快、更稳、更标准化。 二、为什么这个岗位重要 在大模型业务中，模",
           "source": {
             "company": "MiniMax",
             "sourceName": "MiniMax 社招官网（飞书）",
@@ -5168,18 +5207,57 @@
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
           "questionCategories": [
+            "data_strategy",
             "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7663392882951014666",
+          "title": "系统研发实习生—AI Infra（工单智能化方向）",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "加入 AI 基础设施团队，你将在导师指导下参与工单系统的迁移、建设与智能化升级，并逐步承担系统的日常研发和维护工作。 1、工单迁移与数据治理： 参与历史工单及相关流程从旧系统向新系统迁移，完成数据清洗、字段映射、校验、回滚方案和迁移工具开发",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7663392882951014666",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-07-17",
+            "snapshotDate": "2026-07-17",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
             "engineering",
             "algo_rl",
             "system"
           ],
           "questionFocus": [
-            "全职",
-            "社招",
+            "实习",
+            "校招",
+            "Agent",
             "大模型",
-            "全栈",
-            "基础设施",
-            "产品策略"
+            "算法研究",
+            "数据闭环"
           ]
         },
         {
