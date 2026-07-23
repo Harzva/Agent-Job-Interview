@@ -160,7 +160,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-17",
+            "snapshotDate": "2026-07-21",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2736,7 +2736,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-04",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2771,7 +2771,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2807,7 +2807,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2841,7 +2841,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-30",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2877,7 +2877,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2914,7 +2914,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2948,7 +2948,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2958,37 +2958,6 @@
           ],
           "questionFocus": [
             "Agent",
-            "模型训练",
-            "算法推理",
-            "项目复盘"
-          ]
-        },
-        {
-          "id": "kimi_8ecdebc38e",
-          "title": "多模态强化学习研究员",
-          "salary": "官方未公开",
-          "location": "官方未标注",
-          "level": "高级",
-          "tags": [
-            "算法研究"
-          ],
-          "description": "多模态强化学习研究员，来自 Kimi / Moonshot AI 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "Kimi / Moonshot AI",
-            "sourceName": "Kimi 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
-            "evidenceUrl": "https://careers.kimi.com/",
-            "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-07-22",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "算法研究",
             "模型训练",
             "算法推理",
             "项目复盘"
@@ -3011,7 +2980,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-07-22",
+            "snapshotDate": "2026-07-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3784,10 +3753,10 @@
         },
         {
           "id": "mm_7651581813773961526",
-          "title": "LLM 全链路 QA 负责人",
+          "title": "LLM全链路senior测试开发工程师",
           "salary": "官方未公开",
           "location": "北京/上海",
-          "level": "高级",
+          "level": "中高级",
           "tags": [
             "全职",
             "社招",
@@ -3979,7 +3948,7 @@
         },
         {
           "id": "mm_7644894987574741275",
-          "title": "桌面端工程师（AI训练方向）",
+          "title": "桌面端工程师（AI 训练与评测 ）",
           "salary": "官方未公开",
           "location": "北京/上海",
           "level": "中高级",
@@ -3990,7 +3959,7 @@
             "大模型",
             "数据策略"
           ],
-          "description": "岗位背景 我们在为大模型做「移动 & 桌面 & Web 应用开发」方向的后训练(SFT / RL / Agent 评测)。桌面端是当前模型能力最薄、但用户最在意的一块 —— Windows / macOS / Linux 三个平台、Elec",
+          "description": "岗位背景 我们正在提升大模型在移动端、桌面端和 Web 应用开发方向的能力，工作覆盖后训练数据构造、SFT / RL、Agent 任务设计和自动化评测。 其中，桌面端是目前模型能力相对薄弱、但用户需求非常真实的场景：Windows、macO",
           "source": {
             "company": "MiniMax",
             "sourceName": "MiniMax 社招官网（飞书）",
@@ -4018,7 +3987,7 @@
         },
         {
           "id": "mm_7644875960659904810",
-          "title": "安卓工程师（AI训练方向）",
+          "title": "Android 工程师（AI 训练与评测 ）",
           "salary": "官方未公开",
           "location": "北京/上海",
           "level": "中高级",
@@ -4029,7 +3998,7 @@
             "大模型",
             "数据策略"
           ],
-          "description": "岗位背景 我们在为大模型做「移动应用开发」方向的后训练(SFT / RL / Agent 评测)。模型能力的上限,本质上由训练数据和评测体系的质量决定 —— 尤其在 Android 这种\"既要写代码、又要在真实设备上跑得起来\"的领域,造数据",
+          "description": "岗位背景 我们正在提升大模型在移动应用开发方向的能力，工作覆盖后训练数据构造、SFT / RL、Agent 任务设计和自动化评测。 Android 是一个同时考验代码生成与真实环境执行能力的复杂场景。模型不仅要能够编写代码，还需要理解应用架",
           "source": {
             "company": "MiniMax",
             "sourceName": "MiniMax 社招官网（飞书）",
@@ -4560,45 +4529,6 @@
             "大模型",
             "算法研究",
             "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7638957599781767466",
-          "title": "开放平台商业化研发工程师",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "产品策略"
-          ],
-          "description": "MiniMax 是国内头部大模型公司，开放平台是商业化的核心战场。Token 是大模型公司的\"货币\"——怎么让开发者用起来、怎么让企业愿意付费、怎么设计商业模式让收入规模化，这个岗位直接决定公司商业化的天花板。 职位描述：负责 MiniMa",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7638957599781767466",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-12",
-            "snapshotDate": "2026-07-23",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "产品策略",
-            "需求拆解"
           ]
         },
         {
