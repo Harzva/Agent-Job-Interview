@@ -5152,45 +5152,6 @@
           ]
         },
         {
-          "id": "mm_7654500111376156964",
-          "title": "机器学习系统研发工程师-2027 届",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "中高级",
-          "tags": [
-            "正式",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "1. 参与 MiniMax 机器学习平台的研发，设计和实现机器学习相关的基础设施/算法框架/工具链等，关注机器学习研发过程的稳定性、资源利用率等问题； 2. 基于机器学习系统、云原生、云计算架构等多个角度做技术问题解决和探索； 3. 覆盖机",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7654500111376156964",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-23",
-            "snapshotDate": "2026-07-30",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "正式",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7663392882951014666",
           "title": "系统研发实习生—AI Infra（工单智能化方向）",
           "salary": "官方未公开",
@@ -5649,6 +5610,45 @@
           ],
           "questionFocus": [
             "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7654500111376156964",
+          "title": "机器学习系统研发工程师-2027 届",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "1. 参与 MiniMax 机器学习平台的研发，设计和实现机器学习相关的基础设施/算法框架/工具链等，关注机器学习研发过程的稳定性、资源利用率等问题； 2. 基于机器学习系统、云原生、云计算架构等多个角度做技术问题解决和探索； 3. 覆盖机",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7654500111376156964",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-06-23",
+            "snapshotDate": "2026-07-30",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
             "校招",
             "大模型",
             "算法研究",
