@@ -25,7 +25,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-29",
+            "snapshotDate": "2026-08-03",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -59,7 +59,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-10",
-            "snapshotDate": "2026-07-31",
+            "snapshotDate": "2026-08-03",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -91,7 +91,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-05-13",
-            "snapshotDate": "2026-07-29",
+            "snapshotDate": "2026-08-03",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -125,7 +125,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-05-17",
-            "snapshotDate": "2026-07-29",
+            "snapshotDate": "2026-08-03",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -160,7 +160,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-29",
+            "snapshotDate": "2026-08-03",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -197,7 +197,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-07-29",
+            "snapshotDate": "2026-08-03",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3011,6 +3011,44 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7669691866238142746",
+          "title": "AI Agent 产品运营实习生",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "开放岗位",
+          "tags": [
+            "实习",
+            "社招",
+            "Agent",
+            "产品策略"
+          ],
+          "description": "1. 参与国内外用户运营，维护用户社群、开展用户沟通与调研，持续沉淀有效反馈； 2. 对接 Agent 生态合作伙伴及客户，推进合作落地； 3. 与产品、研发及市场团队紧密协作，共同推进 Agent 产品的更新迭代； 4. 围绕国内外目标用",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7669691866238142746",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-03",
+            "snapshotDate": "2026-08-03",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "product",
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "实习",
+            "社招",
+            "Agent",
+            "产品策略",
+            "需求拆解",
+            "工程实现"
+          ]
+        },
+        {
           "id": "mm_7663384813328730404",
           "title": "K8S研发工程师-资源调度方向",
           "salary": "官方未公开",
@@ -4182,10 +4220,10 @@
         },
         {
           "id": "mm_7641891406751287603",
-          "title": "解决方案/前沿部署工程师FDE负责人（AI行业落地）",
+          "title": "前沿部署工程师FDE（AI行业落地）",
           "salary": "官方未公开",
           "location": "北京/上海",
-          "level": "高级",
+          "level": "中高级",
           "tags": [
             "全职",
             "社招",
@@ -5108,45 +5146,6 @@
             "社招",
             "大模型",
             "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7615118143853906222",
-          "title": "K8S研发工程师-DevOps方向",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "一、一句话定位 参与建设面向大模型训练、推理与在线业务的 Kubernetes 研发交付平台，用代码打通从代码提交、构建、测试到灰度发布、回滚和运行反馈的完整链路，让业务交付更快、更稳、更标准化。 二、为什么这个岗位重要 在大模型业务中，模",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7615118143853906222",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-03-09",
-            "snapshotDate": "2026-08-03",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
             "数据策略",
             "数据闭环"
           ]
