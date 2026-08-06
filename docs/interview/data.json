@@ -3011,6 +3011,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7670833481375402246",
+          "title": "AI Agent 架构师 / 策略负责人（量化投资方向）",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "岗位职责： AI Agent 架构与策略落地：结合公司大模型能力，设计并开发面向金融场景的 AI Agent 系统。 数据策略与模型融合：制定并优化海量多模态/非结构化金融数据的数据策略，构建基于大模型理解与推理的全新特征和 alpha 信",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7670833481375402246",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-06",
+            "snapshotDate": "2026-08-06",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7669691866238142746",
           "title": "AI Agent 产品运营实习生",
           "salary": "官方未公开",
@@ -3323,7 +3362,7 @@
         },
         {
           "id": "mm_7655625825836960026",
-          "title": "AI数据分析师（Agent/开平）",
+          "title": "AI数据分析师（Agent）",
           "salary": "官方未公开",
           "location": "上海/北京",
           "level": "开放岗位",
@@ -5144,6 +5183,45 @@
           "questionFocus": [
             "全职",
             "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7670838753011550507",
+          "title": "存储平台研发工程师-2027 届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "关于我们 我们是一家AI大模型公司。训练一个模型需要读多少数据、Checkpoint 存到哪里、几千张卡同时读同一份数据集会发生什么——这些问题最后都会落到存储上。存储平台团队负责公司 PB 级数据的存与取，建设从底层数据结构到上层服务化的",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7670838753011550507",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-06",
+            "snapshotDate": "2026-08-06",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
             "大模型",
             "算法研究",
             "数据策略",
