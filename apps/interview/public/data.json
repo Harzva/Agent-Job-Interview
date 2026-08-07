@@ -2736,7 +2736,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-04",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2771,7 +2771,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2807,7 +2807,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2841,7 +2841,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-30",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2877,7 +2877,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2914,7 +2914,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2948,7 +2948,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2980,7 +2980,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-06",
+            "snapshotDate": "2026-08-07",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -6782,84 +6782,6 @@
             "大模型",
             "数据策略",
             "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7535804843156736299",
-          "title": "Agent 客户端开发实习生（AI Agent / AI App）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "客户端"
-          ],
-          "description": "- 关注 AGI 前沿技术进展，技术驱动产品与体验进步 - 定义、开发全球领先的 AI Agent / AI APP",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7535804843156736299",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-08-07",
-            "snapshotDate": "2026-08-07",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "客户端",
-            "产品策略"
-          ]
-        },
-        {
-          "id": "mm_7535804207291451657",
-          "title": "Agent 前端开发实习生（AI Agent / AI App）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "前端"
-          ],
-          "description": "- 关注 AGI 前沿技术进展，技术驱动产品与体验进步 - 定义、开发全球领先的 AI Agent / AI APP",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7535804207291451657",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-08-07",
-            "snapshotDate": "2026-08-07",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "前端",
-            "产品策略"
           ]
         },
         {
