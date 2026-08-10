@@ -3011,6 +3011,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7672238359478159679",
+          "title": "预训练数据 Pipeline 工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "为什么加入我们 1. 你会直接参与大模型训练前最核心的数据生产链路，数据质量、吞吐和覆盖度会影响模型能力上限。 2. 这里不是传统离线数仓，而是面向预训练数据构建的大规模分布式数据基础设施。 3. 你会在真实海量数据场景中使用 Spark ",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7672238359478159679",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-10",
+            "snapshotDate": "2026-08-10",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7671304935124240690",
           "title": "大模型算法工程师-预训练",
           "salary": "官方未公开",
@@ -5381,45 +5420,6 @@
             "基础设施",
             "工程实现",
             "系统落地"
-          ]
-        },
-        {
-          "id": "mm_7660068187455949098",
-          "title": "AI评测实习生",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "职位描述 参与多模态大模型评测体系建设，引入开源、自建评测集，补充对模型能力的观测视角，提升观测力 参与开发自动化、可扩展、可靠的评测系统，提高自动评估/分析的占比，缩短评测周期; 针对阶段性迭代重点、行业变化，持续探索模型/Agent能力",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7660068187455949098",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-07-08",
-            "snapshotDate": "2026-08-10",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
           ]
         },
         {
