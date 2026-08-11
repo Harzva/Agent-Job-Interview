@@ -3907,45 +3907,6 @@
           ]
         },
         {
-          "id": "mm_7651540773884561718",
-          "title": "数据分析实习生（Agent方向）",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "1. 支持 MiniMax Agent 相关业务的数据分析工作，包括用户行为、功能使用、转化漏斗、留存等数据分析； 2. 协助搭建和维护 Agent 产品的数据看板，跟踪核心指标变化； 3. 通过 SQL 提取和分析数据，发现产品使用中的问",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7651540773884561718",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-15",
-            "snapshotDate": "2026-08-11",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "实习",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7651518771664996662",
           "title": "数据采购",
           "salary": "官方未公开",
