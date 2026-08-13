@@ -5149,24 +5149,24 @@
           ]
         },
         {
-          "id": "mm_7623785911113304366",
-          "title": "大模型算法负责人",
+          "id": "mm_7673498877026814258",
+          "title": "推荐算法实习生-talkie星野",
           "salary": "官方未公开",
-          "location": "北京/上海/旧金山",
-          "level": "高级",
+          "location": "北京",
+          "level": "开放岗位",
           "tags": [
-            "全职",
-            "社招",
+            "实习",
+            "校招",
             "大模型",
             "算法研究"
           ],
-          "description": "1. 多模态后训练负责人； 2. 多模态模型结构负责人； 3. WorldPlay算法负责人； 4. Deep Research 负责人； 5. Cowork算法负责人； 6. Reasoning负责人； 7. RL推理负责人； 8. 长文",
+          "description": "Minimax是当前AIGC方向的独角兽公司，我们是公司C端应用的搜广推团队，在做一些大模型和推荐系统结合的事情，欢迎对大模型以及搜广推算法有兴趣的同学一起探索技术的边界。 1、负责AI Native应用中的推荐链路效果/效率优化，对召回、",
           "source": {
             "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623785911113304366",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7673498877026814258",
             "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-04-01",
+            "firstSeenAt": "2026-08-13",
             "snapshotDate": "2026-08-13",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
@@ -5178,8 +5178,8 @@
             "behavior"
           ],
           "questionFocus": [
-            "全职",
-            "社招",
+            "实习",
+            "校招",
             "大模型",
             "算法研究",
             "工程实现",
