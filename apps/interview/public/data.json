@@ -5110,6 +5110,122 @@
           ]
         },
         {
+          "id": "mm_7627071736828332329",
+          "title": "底层系统与固件数据专家（AI训练方向）",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "MiniMax 自主研发了多模态通用大模型，产品覆盖全球 200+ 国家。 这是一个长期、持续演进的核心技术岗位。您将与各领域资深工程师及算法团队紧密协作，系统性构建高质量训练数据，解决大模型在垂直领域的代码生成与推理能力短板，并随前沿技术",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627071736828332329",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-10",
+            "snapshotDate": "2026-08-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7623785911113304366",
+          "title": "大模型算法负责人",
+          "salary": "官方未公开",
+          "location": "北京/上海/旧金山",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "1. 多模态后训练负责人； 2. 多模态模型结构负责人； 3. WorldPlay算法负责人； 4. Deep Research 负责人； 5. Cowork算法负责人； 6. Reasoning负责人； 7. RL推理负责人； 8. 长文",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623785911113304366",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-01",
+            "snapshotDate": "2026-08-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "system",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "工程实现",
+            "系统落地"
+          ]
+        },
+        {
+          "id": "mm_7623680630991505705",
+          "title": "高性能通信库研发工程师 — AI 大规模训练通信方向",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "为什么加入我们 1. 你将直接影响 MiniMax大规模 GPU 集群的训练效率——通信是大规模分布式训练最关键的瓶颈之一，你的每一次优化都会体现在模型迭代速度上 2. 真实的 AI 原生大规模场景：不是实验室级别的 benchmark，而",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623680630991505705",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-01",
+            "snapshotDate": "2026-08-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7674980747073095986",
           "title": "大模型算法工程师-2028届实习",
           "salary": "官方未公开",
