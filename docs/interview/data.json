@@ -3008,6 +3008,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7675569100701518122",
+          "title": "高可用架构师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "基础设施"
+          ],
+          "description": "一、一句话定位 负责建设面向大模型训练、推理及 Agent 在线业务的公司级稳定性治理体系与高可用架构能力，让核心系统可预防、可观测、可恢复、可持续演进。 二、为什么这个岗位重要 大模型训练、推理和 Agent 业务具有资源密集、链路长、依",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7675569100701518122",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-19",
+            "snapshotDate": "2026-08-19",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "product",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "基础设施",
+            "产品策略"
+          ]
+        },
+        {
           "id": "mm_7673790227559385398",
           "title": "异构智算平台架构师",
           "salary": "官方未公开",
@@ -5184,45 +5223,6 @@
             "算法研究",
             "工程实现",
             "系统落地"
-          ]
-        },
-        {
-          "id": "mm_7623680630991505705",
-          "title": "高性能通信库研发工程师 — AI 大规模训练通信方向",
-          "salary": "官方未公开",
-          "location": "上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "为什么加入我们 1. 你将直接影响 MiniMax大规模 GPU 集群的训练效率——通信是大规模分布式训练最关键的瓶颈之一，你的每一次优化都会体现在模型迭代速度上 2. 真实的 AI 原生大规模场景：不是实验室级别的 benchmark，而",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623680630991505705",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-04-01",
-            "snapshotDate": "2026-08-19",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
           ]
         },
         {
