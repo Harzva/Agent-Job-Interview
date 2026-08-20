@@ -3008,6 +3008,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7675996052562921778",
+          "title": "大模型预训练数据算法工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "围绕大语言模型预训练，探索并构建前沿的大规模预训练数据处理管线；研究不同数据源的数据处理方法，将有效策略落地为可规模化运行的生产方案，最终通过预训练实验完成模型效果验证；岗位工作覆盖数据算法与数据工程两个方向，既关注数据处理方法本身，也关注",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7675996052562921778",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-20",
+            "snapshotDate": "2026-08-20",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7675569100701518122",
           "title": "高可用架构师",
           "salary": "官方未公开",
