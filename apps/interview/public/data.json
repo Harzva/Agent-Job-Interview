@@ -2733,7 +2733,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-04",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2768,7 +2768,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2804,7 +2804,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2838,7 +2838,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-30",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2874,7 +2874,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2911,7 +2911,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2945,7 +2945,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2977,7 +2977,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-08-24",
+            "snapshotDate": "2026-08-25",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3007,45 +3007,6 @@
       "color": "#DE1F84",
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
-        {
-          "id": "mm_7677530835205163318",
-          "title": "服务端工程师（Maas方向）",
-          "salary": "官方未公开",
-          "location": "上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究"
-          ],
-          "description": "1.负责 MiniMax 开放平台 / MaaS 相关服务端系统的设计、开发与迭代，支持大模型能力的对外服务化交付。 2.参与开放 API、网关调度、鉴权、配额、计费、流量治理、多租户隔离等核心平台能力建设。 3.负责模型能力接入与平台化封",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7677530835205163318",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-08-24",
-            "snapshotDate": "2026-08-25",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究",
-            "数据闭环"
-          ]
-        },
         {
           "id": "mm_7676160201309964585",
           "title": "游戏方向负责人（模型后训练）",
@@ -3865,45 +3826,6 @@
           ]
         },
         {
-          "id": "mm_7651914756832692516",
-          "title": "数据算法 Coding 方向负责人",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究"
-          ],
-          "description": "你将负责系统性提升大模型在软件工程场景下的代码能力，覆盖前端、移动端、桌面端与服务端等方向。当前大模型已具备一定代码生成能力，但在复杂工程场景中距离「可放心交付」仍有显著差距。 瓶颈往往不在模型本身，而在如何与真实的生产力产品结合：模型要在",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7651914756832692516",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-16",
-            "snapshotDate": "2026-08-25",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7651601796776216851",
           "title": "Senior 前端开发工程师-开放平台",
           "salary": "官方未公开",
@@ -4607,7 +4529,7 @@
         },
         {
           "id": "mm_7641148041870117126",
-          "title": "AI服务端工程师（Agent方向）",
+          "title": "AI服务端工程师（Agent/开平）",
           "salary": "官方未公开",
           "location": "上海/北京",
           "level": "中高级",
@@ -5205,6 +5127,84 @@
             "company": "MiniMax",
             "sourceName": "MiniMax 社招官网（飞书）",
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627072434231691562",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-10",
+            "snapshotDate": "2026-08-25",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7627072334449871167",
+          "title": "量化交易数据工程师（AI训练方向）",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "MiniMax 自主研发了多模态通用大模型，产品覆盖全球 200+ 国家。 这是一个长期、持续演进的核心技术岗位。您将与各领域资深工程师及算法团队紧密协作，系统性构建高质量训练数据，解决大模型在垂直领域的代码生成与推理能力短板，并随前沿技术",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627072334449871167",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-10",
+            "snapshotDate": "2026-08-25",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7627071736828332329",
+          "title": "底层系统与固件数据专家（AI训练方向）",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "MiniMax 自主研发了多模态通用大模型，产品覆盖全球 200+ 国家。 这是一个长期、持续演进的核心技术岗位。您将与各领域资深工程师及算法团队紧密协作，系统性构建高质量训练数据，解决大模型在垂直领域的代码生成与推理能力短板，并随前沿技术",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627071736828332329",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-10",
             "snapshotDate": "2026-08-25",
