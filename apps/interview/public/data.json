@@ -3907,45 +3907,6 @@
           ]
         },
         {
-          "id": "mm_7654051545948997894",
-          "title": "大模型推理框架工程师（RL 方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究"
-          ],
-          "description": "我们希望你在某个领域有真正的深度——推理加速、GPU 性能优化、分布式系统、RL 工程，都行——同时对算法前沿保持真实的好奇心。你不需要什么都懂，但你应该知道自己不懂的东西在哪，并且想去弄懂它。 1. RL Rollout：推理是 RL 循",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7654051545948997894",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-22",
-            "snapshotDate": "2026-09-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7651601796776216851",
           "title": "Senior 前端开发工程师-开放平台",
           "salary": "官方未公开",
@@ -4997,45 +4958,6 @@
           ]
         },
         {
-          "id": "mm_7636616420796664106",
-          "title": "大模型训练框架工程师（训练框架 & RL 方向）",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "1. 训练一个顶尖的大模型，需要的不只是算法——它需要一套从集群调度到通信优化、从并行策略到 RL 训练流水线的完整系统工程。模型能力的上限，往往卡在基础设施的某个角落，我们做的事，就是把那个角落找出来，把它打通。 2. 我们有两个方向：训",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7636616420796664106",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-06",
-            "snapshotDate": "2026-09-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7631108359181175049",
           "title": "系统研发工程师（云原生方向）",
           "salary": "官方未公开",
@@ -5304,6 +5226,160 @@
             "大模型",
             "算法研究",
             "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7627071736828332329",
+          "title": "底层系统与固件数据专家（AI训练方向）",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "MiniMax 自主研发了多模态通用大模型，产品覆盖全球 200+ 国家。 这是一个长期、持续演进的核心技术岗位。您将与各领域资深工程师及算法团队紧密协作，系统性构建高质量训练数据，解决大模型在垂直领域的代码生成与推理能力短板，并随前沿技术",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627071736828332329",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-10",
+            "snapshotDate": "2026-09-08",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7623785911113304366",
+          "title": "大模型算法负责人",
+          "salary": "官方未公开",
+          "location": "北京/上海/旧金山",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "-",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623785911113304366",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-01",
+            "snapshotDate": "2026-09-08",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "工程实现",
+            "系统落地"
+          ]
+        },
+        {
+          "id": "mm_7683006429335570697",
+          "title": "大模型训练框架工程师-日常实习",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "训练顶尖大模型不仅依赖算法创新，也依赖稳定、高效、可扩展的训练系统。随着模型规模和训练复杂度持续提升，训练效率、并行策略、通信开销、显存管理、Checkpoint、容错恢复、大规模数值正确性保证和系统稳定性，都会直接影响模型迭代速度和能力上",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7683006429335570697",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-09-08",
+            "snapshotDate": "2026-09-08",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7683006384095807798",
+          "title": "大模型工程师-RL框架&算法-日常实习",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "RL 正在成为提升大模型能力的重要方向。大规模 RL 的效率和上限，不仅取决于算法设计，也高度依赖底层系统能力，包括 RL 框架、Rollout、推理 serving、调度策略、环境交互和系统稳定性。 MiniMax 自研强化学习训练系统 ",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7683006384095807798",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-09-08",
+            "snapshotDate": "2026-09-08",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
             "数据闭环"
           ]
         },
@@ -6695,84 +6771,6 @@
             "product",
             "engineering",
             "algo_rl"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7600018637110888730",
-          "title": "大模型算法工程Co-Design-日常实习",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "寻找深度理解大模型算法，同时具备顶尖系统工程设计能力的专家。你将作为算法研究与工程落地的核心桥梁，主导优化大模型训练/推理效率、性能与成本，确保前沿算法在大规模系统中高效实现。 1. 协同设计与优化： - 深入理解大模型算法（架构、训练/推",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7600018637110888730",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-01-27",
-            "snapshotDate": "2026-09-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7598025665137068324",
-          "title": "大模型算法工程Co-Design-2027届",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "寻找深度理解大模型算法，同时具备顶尖系统工程设计能力的专家。你将作为算法研究与工程落地的核心桥梁，主导优化大模型训练/推理效率、性能与成本，确保前沿算法在大规模系统中高效实现。 1. 协同设计与优化： - 深入理解大模型算法（架构、训练/推",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7598025665137068324",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-01-22",
-            "snapshotDate": "2026-09-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
           ],
           "questionFocus": [
             "实习",
