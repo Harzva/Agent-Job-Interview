@@ -4141,45 +4141,6 @@
           ]
         },
         {
-          "id": "mm_7651518771664996662",
-          "title": "数据采购",
-          "salary": "官方未公开",
-          "location": "上海",
-          "level": "开放岗位",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究"
-          ],
-          "description": "1，全球数据资源 Sourcing - 深度理解大模型与 Agent 训练的数据需求（预训练 / SFT / RL / 多模态 / 评测 / 工具调用与 Agent 轨迹等），拆解数据类型、质量标准与分布目标 - 持续做国内外市场情报扫描，",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7651518771664996662",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-15",
-            "snapshotDate": "2026-09-11",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7649737348046113060",
           "title": "服务端研发-信任与安全/审核/风控",
           "salary": "官方未公开",
@@ -5191,45 +5152,6 @@
           ]
         },
         {
-          "id": "mm_7627072434231691562",
-          "title": "金融逻辑与合规数据架构师（AI训练方向）",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "MiniMax 自主研发了多模态通用大模型，产品覆盖全球 200+ 国家。 这是一个长期、持续演进的核心技术岗位。您将与各领域资深工程师及算法团队紧密协作，系统性构建高质量训练数据，解决大模型在垂直领域的代码生成与推理能力短板，并随前沿技术",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7627072434231691562",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-04-10",
-            "snapshotDate": "2026-09-11",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7683070096784918830",
           "title": "大模型数据实习生-声音",
           "salary": "官方未公开",
@@ -5258,6 +5180,45 @@
             "engineering",
             "algo_rl",
             "behavior"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7676444701512616234",
+          "title": "资源运营实习工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "- 面向训练、推理和在线业务，协助开展 GPU、CPU、存储、网络等云资源的供给、使用和成本运营。 - 与业务、算法和平台团队协作，理解业务资源需求、使用模式和成本诉求，支持资源申请、配额分配、调度与重点项目保障。 - 跟踪资源利用率、供需",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7676444701512616234",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-21",
+            "snapshotDate": "2026-09-11",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
           ],
           "questionFocus": [
             "实习",
@@ -5343,45 +5304,6 @@
             "Agent",
             "大模型",
             "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7676444701512616234",
-          "title": "资源运营实习工程师",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "- 面向训练、推理和在线业务，协助开展 GPU、CPU、存储、网络等云资源的供给、使用和成本运营。 - 与业务、算法和平台团队协作，理解业务资源需求、使用模式和成本诉求，支持资源申请、配额分配、调度与重点项目保障。 - 跟踪资源利用率、供需",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7676444701512616234",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-08-21",
-            "snapshotDate": "2026-09-11",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
             "数据闭环"
           ]
         },
