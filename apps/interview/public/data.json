@@ -4020,45 +4020,6 @@
           ]
         },
         {
-          "id": "mm_7651601411037956395",
-          "title": "开放平台技术负责人",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "产品策略"
-          ],
-          "description": "1. 负责 MiniMax 开放平台的架构设计、技术演进与团队建设，围绕模型服务、API 平台、推理链路、稳定性和开发者体验，持续提升平台的性能、可靠性、可扩展性和商业化承载能力。 2. 深入客户和开发者场景，理解真实需求、交付目标与竞品动",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7651601411037956395",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-15",
-            "snapshotDate": "2026-10-08",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "产品策略",
-            "需求拆解"
-          ]
-        },
-        {
           "id": "mm_7651601107798018331",
           "title": "前端开发工程师-开放平台",
           "salary": "官方未公开",
