@@ -4062,45 +4062,6 @@
           ]
         },
         {
-          "id": "mm_7651601107798018331",
-          "title": "前端开发工程师-开放平台",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "前端",
-            "产品策略"
-          ],
-          "description": "负责 MiniMax 开放平台核心前端产品的设计与实现，具体工作包括： - 负责 API 控制台、开发者文档站、Playground、用量与账单等核心页面的开发与体验优化 - 实现流式对话、模型调试、参数调优等 AI 场景的前端交互，让开发",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7651601107798018331",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-15",
-            "snapshotDate": "2026-10-13",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "前端",
-            "产品策略",
-            "需求拆解"
-          ]
-        },
-        {
           "id": "mm_7651581813773961526",
           "title": "Senior测试开发工程师-大模型方向",
           "salary": "官方未公开",
@@ -4175,45 +4136,6 @@
             "Agent",
             "大模型",
             "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7646712889688557830",
-          "title": "AI 基础设施前端工程师",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "数据策略",
-            "前端"
-          ],
-          "description": "职位亮点 1.你将参与 AI 基础设施核心平台的建设，把复杂的 GPU 集群、节点与资产管理能力，转化为高效、易用的产品体验。 2.这里不只是常规的页面开发：你会面对大规模数据交互、可视化、网络拓扑、在线代码编辑器等有挑战性的前端场景，也有",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7646712889688557830",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-06-02",
-            "snapshotDate": "2026-10-13",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "数据策略",
-            "前端",
             "数据闭环"
           ]
         },
