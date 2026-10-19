@@ -9,6 +9,177 @@
       "gradient": "from-[#0EA5E9] to-[#06B6D4]",
       "jobs": [
         {
+          "id": "ds_c039580c0a",
+          "title": "大模型训练/推理框架工程师",
+          "salary": "官方未公开",
+          "location": "北京/杭州",
+          "level": "中高级",
+          "tags": [
+            "大模型"
+          ],
+          "description": "大模型训练/推理框架工程师，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
+          "source": {
+            "company": "DeepSeek",
+            "sourceName": "DeepSeek 官方招聘页（Moka）",
+            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "firstSeenAt": "2026-06-24",
+            "snapshotDate": "2026-10-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "system",
+            "behavior"
+          ],
+          "questionFocus": [
+            "大模型",
+            "工程实现",
+            "系统落地",
+            "模型训练",
+            "算法推理",
+            "系统设计"
+          ]
+        },
+        {
+          "id": "ds_9e58be343c",
+          "title": "多模态理解（数据/算法）研究员",
+          "salary": "官方未公开",
+          "location": "杭州/北京",
+          "level": "高级",
+          "tags": [
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "多模态理解（数据/算法）研究员，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
+          "source": {
+            "company": "DeepSeek",
+            "sourceName": "DeepSeek 官方招聘页（Moka）",
+            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "firstSeenAt": "2026-06-24",
+            "snapshotDate": "2026-10-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "算法研究",
+            "数据策略",
+            "数据闭环",
+            "评测体系",
+            "模型训练",
+            "算法推理"
+          ]
+        },
+        {
+          "id": "ds_77adfd1150",
+          "title": "Agent Harness 团队",
+          "salary": "官方未公开",
+          "location": "杭州/北京",
+          "level": "开放岗位",
+          "tags": [
+            "Agent"
+          ],
+          "description": "Agent Harness 团队，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
+          "source": {
+            "company": "DeepSeek",
+            "sourceName": "DeepSeek 官方招聘页（Moka）",
+            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "firstSeenAt": "2026-06-24",
+            "snapshotDate": "2026-10-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "Agent",
+            "模型训练",
+            "算法推理",
+            "项目复盘"
+          ]
+        },
+        {
+          "id": "ds_c5ae4da2cb",
+          "title": "Agent  弹性计算研发工程师",
+          "salary": "官方未公开",
+          "location": "北京/杭州",
+          "level": "中高级",
+          "tags": [
+            "Agent"
+          ],
+          "description": "Agent  弹性计算研发工程师，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
+          "source": {
+            "company": "DeepSeek",
+            "sourceName": "DeepSeek 官方招聘页（Moka）",
+            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "firstSeenAt": "2026-06-24",
+            "snapshotDate": "2026-10-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "Agent",
+            "工程实现",
+            "系统落地",
+            "模型训练",
+            "算法推理",
+            "项目复盘"
+          ]
+        },
+        {
+          "id": "ds_a254c49f19",
+          "title": "Code Agent 数据工程师",
+          "salary": "官方未公开",
+          "location": "北京",
+          "level": "中高级",
+          "tags": [
+            "Agent",
+            "数据策略"
+          ],
+          "description": "Code Agent 数据工程师，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
+          "source": {
+            "company": "DeepSeek",
+            "sourceName": "DeepSeek 官方招聘页（Moka）",
+            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
+            "firstSeenAt": "2026-06-24",
+            "snapshotDate": "2026-10-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "Agent",
+            "数据策略",
+            "数据闭环",
+            "评测体系",
+            "工程实现",
+            "系统落地"
+          ]
+        },
+        {
           "id": "ds_2b997d7dd4",
           "title": "深度学习研发工程师",
           "salary": "官方未公开",
@@ -35,141 +206,6 @@
           ],
           "questionFocus": [
             "算法研究",
-            "工程实现",
-            "系统落地",
-            "模型训练",
-            "算法推理",
-            "项目复盘"
-          ]
-        },
-        {
-          "id": "ds_9e58be343c",
-          "title": "多模态理解（数据/算法）研究员",
-          "salary": "官方未公开",
-          "location": "杭州/北京",
-          "level": "高级",
-          "tags": [
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "多模态理解（数据/算法）研究员，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-13",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "算法研究",
-            "数据策略",
-            "数据闭环",
-            "评测体系",
-            "模型训练",
-            "算法推理"
-          ]
-        },
-        {
-          "id": "ds_591d7303f6",
-          "title": "Agent Harness 研究员（实习/全职）",
-          "salary": "官方未公开",
-          "location": "杭州/北京",
-          "level": "高级",
-          "tags": [
-            "Agent"
-          ],
-          "description": "Agent Harness 研究员（实习/全职），来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-06-10",
-            "snapshotDate": "2026-10-13",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "Agent",
-            "模型训练",
-            "算法推理",
-            "项目复盘"
-          ]
-        },
-        {
-          "id": "ds_ec06ae1b72",
-          "title": "Agent Harness 产品经理",
-          "salary": "官方未公开",
-          "location": "北京/杭州",
-          "level": "中高级",
-          "tags": [
-            "Agent",
-            "产品策略"
-          ],
-          "description": "Agent Harness 产品经理，来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-05-13",
-            "snapshotDate": "2026-10-13",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "Agent",
-            "产品策略",
-            "需求拆解",
-            "模型训练",
-            "算法推理",
-            "项目复盘"
-          ]
-        },
-        {
-          "id": "ds_1e0d77c04e",
-          "title": "Agent Harness 研发工程师（全职/实习）",
-          "salary": "官方未公开",
-          "location": "杭州/北京",
-          "level": "中高级",
-          "tags": [
-            "Agent"
-          ],
-          "description": "Agent Harness 研发工程师（全职/实习），来自 DeepSeek 官方招聘页，关注大模型、Agent、工程平台或业务系统的真实落地。",
-          "source": {
-            "company": "DeepSeek",
-            "sourceName": "DeepSeek 官方招聘页（Moka）",
-            "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
-            "firstSeenAt": "2026-05-17",
-            "snapshotDate": "2026-10-13",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "engineering",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "Agent",
             "工程实现",
             "系统落地",
             "模型训练",
@@ -2696,7 +2732,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-18",
+            "snapshotDate": "2026-10-19",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2732,7 +2768,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-10-18",
+            "snapshotDate": "2026-10-19",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2766,7 +2802,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-06-30",
-            "snapshotDate": "2026-10-18",
+            "snapshotDate": "2026-10-19",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2802,7 +2838,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-10-18",
+            "snapshotDate": "2026-10-19",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2839,7 +2875,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-10-18",
+            "snapshotDate": "2026-10-19",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2873,7 +2909,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-10-18",
+            "snapshotDate": "2026-10-19",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2905,7 +2941,7 @@
             "sourceUrl": "https://app.mokahr.com/apply/moonshot/148506#/jobs",
             "evidenceUrl": "https://careers.kimi.com/",
             "firstSeenAt": "2026-05-21",
-            "snapshotDate": "2026-10-18",
+            "snapshotDate": "2026-10-19",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 Kimi 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -2935,6 +2971,45 @@
       "color": "#DE1F84",
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
+        {
+          "id": "mm_7696444820051298596",
+          "title": "大模型数据基地负责人",
+          "salary": "官方未公开",
+          "location": "成都",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "负责基地整体运营，统筹产能、人员与项目排期，对数据交付的质量、效率和成本负责。 对接算法及业务团队，将大模型训练与评测需求转化为标注规范、生产流程和验收标准。 接安全团队，将内容安全需求转化为安全规范、生产流程和验收标准。 负责团队招聘、培",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7696444820051298596",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-10-14",
+            "snapshotDate": "2026-10-19",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
         {
           "id": "mm_7696412591447509291",
           "title": "AI Infra 存储高级研发工程师",
@@ -4914,45 +4989,6 @@
             "算法研究",
             "工程实现",
             "系统落地"
-          ]
-        },
-        {
-          "id": "mm_7623680630991505705",
-          "title": "高性能通信库研发工程师 — AI 大规模训练通信方向",
-          "salary": "官方未公开",
-          "location": "上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "为什么加入我们 1. 你将直接影响 MiniMax大规模 GPU 集群的训练效率——通信是大规模分布式训练最关键的瓶颈之一，你的每一次优化都会体现在模型迭代速度上 2. 真实的 AI 原生大规模场景：不是实验室级别的 benchmark，而",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7623680630991505705",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-04-01",
-            "snapshotDate": "2026-10-19",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
           ]
         },
         {
