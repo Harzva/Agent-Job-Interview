@@ -125,7 +125,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-20",
+            "snapshotDate": "2026-10-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -160,7 +160,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-20",
+            "snapshotDate": "2026-10-23",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -3006,6 +3006,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7700060745920825654",
+          "title": "AI Infra 存储研发工程师 / 专家（多方向、多 HC）",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "客户端"
+          ],
+          "description": "岗位说明 这是一个面向 AI 存储基础设施的岗位族，团队将围绕不同技术方向持续招聘多个 HC，岗位级别覆盖资深工程师到技术专家。 你不需要覆盖全部存储技术栈，只需在一个或多个方向具备深入经验，我们会根据你的技术专长匹配具体岗位和团队。 岗位",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7700060745920825654",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-10-24",
+            "snapshotDate": "2026-10-24",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "客户端",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7699755111263045915",
           "title": "AI Infra 平台研发工程师-故障治理",
           "salary": "官方未公开",
@@ -4970,45 +5009,6 @@
             "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7628896086698346803",
             "evidenceUrl": "https://www.minimaxi.com/careers",
             "firstSeenAt": "2026-04-15",
-            "snapshotDate": "2026-10-24",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7628599263995906342",
-          "title": "大模型算法工程化工程师",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "为什么加入我们？ - 参与下一代模型的构建，获得数据->训练->推理端到端全流程的技术视野。 - 开放的文化，可以获取最新的技术观点；扁平高效的团队组织，可以将想法快速落地。 - AI Native的工作方式，用想象力重新定义开发范式。 岗",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7628599263995906342",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-04-14",
             "snapshotDate": "2026-10-24",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
