@@ -3084,45 +3084,6 @@
           ]
         },
         {
-          "id": "mm_7699693436584495410",
-          "title": "算力平台研发工程师-资源管理与可靠性",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "中高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "数据策略",
-            "测试开发"
-          ],
-          "description": "岗位介绍 面向大模型训练与推理，集群资源调度、高性能网络，以及集群与模型的协同设计，是释放算力潜能、提升 AI 基础设施整体效率与稳定性的关键。我们致力于将复杂的底层基础设施转化为高效、可靠、易用的算力服务，为模型能力的持续突破提供支撑。 ",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7699693436584495410",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-10-23",
-            "snapshotDate": "2026-10-26",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "数据策略",
-            "测试开发",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7699463049644443940",
           "title": "大模型系统评测工程师",
           "salary": "官方未公开",
@@ -3158,6 +3119,45 @@
             "Agent",
             "大模型",
             "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7699693436584495410",
+          "title": "算力平台研发工程师-资源管理与可靠性",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "测试开发"
+          ],
+          "description": "岗位介绍 面向大模型训练与推理，集群资源调度、高性能网络，以及集群与模型的协同设计，是释放算力潜能、提升 AI 基础设施整体效率与稳定性的关键。我们致力于将复杂的底层基础设施转化为高效、可靠、易用的算力服务，为模型能力的持续突破提供支撑。 ",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7699693436584495410",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-10-23",
+            "snapshotDate": "2026-10-26",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "测试开发",
             "数据闭环"
           ]
         },
