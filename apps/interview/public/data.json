@@ -24,7 +24,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-20",
+            "snapshotDate": "2026-10-26",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -60,7 +60,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-20",
+            "snapshotDate": "2026-10-26",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -94,7 +94,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-20",
+            "snapshotDate": "2026-10-26",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -125,7 +125,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-23",
+            "snapshotDate": "2026-10-26",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -160,7 +160,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2026-06-24",
-            "snapshotDate": "2026-10-23",
+            "snapshotDate": "2026-10-26",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -195,7 +195,7 @@
             "sourceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "evidenceUrl": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/jobs",
             "firstSeenAt": "2021-12-27",
-            "snapshotDate": "2026-10-20",
+            "snapshotDate": "2026-10-26",
             "status": "open",
             "note": "岗位由 GitHub Actions 从 DeepSeek 官方 Moka 招聘页同步；岗位状态、薪资和 JD 细节以官方页面为准。"
           },
@@ -4987,6 +4987,44 @@
             "算法研究",
             "产品策略",
             "需求拆解"
+          ]
+        },
+        {
+          "id": "mm_7636745615666727209",
+          "title": "TPM, Research & Engineering",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "开放岗位",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "关于这个角色： 你将深度嵌入 MiniMax 的 Research & Engineering 组织，覆盖预训练、后训练、对齐、推理优化、评估体系等多个方向。这是一个 0-to-1 的角色——你需要关于这个角色： 1. 你将深度嵌入 Min",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7636745615666727209",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-06",
+            "snapshotDate": "2026-10-27",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "数据闭环",
+            "评测体系"
           ]
         },
         {
