@@ -3045,10 +3045,49 @@
           ]
         },
         {
+          "id": "mm_7694877451201841449",
+          "title": "测试工程师（Agent方向）",
+          "salary": "官方未公开",
+          "location": "上海",
+          "level": "中高级",
+          "tags": [
+            "外包",
+            "社招",
+            "Agent",
+            "大模型",
+            "测试开发"
+          ],
+          "description": "该岗位为Mcode desktop测试主力同学，保障Mcode全端日常需求测试工作，负责Mcode核心业务质量保障： 1. 负责国内/海外，Mcode 产品版本迭代质量保障工作，探索Mcode产品能力边界； 2. 基于AI Agent 能力",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7694877451201841449",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-10-10",
+            "snapshotDate": "2026-10-28",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "product",
+            "engineering",
+            "algo_rl",
+            "behavior"
+          ],
+          "questionFocus": [
+            "外包",
+            "社招",
+            "Agent",
+            "大模型",
+            "测试开发",
+            "产品策略"
+          ]
+        },
+        {
           "id": "mm_7700060745920825654",
           "title": "AI Infra 存储研发工程师 / 专家（多方向、多 HC）",
           "salary": "官方未公开",
-          "location": "上海",
+          "location": "上海/北京",
           "level": "高级",
           "tags": [
             "全职",
@@ -5056,45 +5095,6 @@
             "product",
             "engineering",
             "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7628896086698346803",
-          "title": "大模型系统负责人",
-          "salary": "官方未公开",
-          "location": "上海/北京/杭州",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "职位职责 1. 负责 AI Infra 整体方向与技术演进，围绕大模型训练与推理场景，持续逼近系统级最佳实践。 2. 从模型效果与业务需求出发，端到端解决训练与推理链路中的关键问题，提升性能、效率与稳定性。 3. 统筹算力、框架与流量体系设",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7628896086698346803",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-04-15",
-            "snapshotDate": "2026-10-28",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
           ],
           "questionFocus": [
             "全职",
