@@ -5145,45 +5145,6 @@
           ]
         },
         {
-          "id": "mm_7699747334557190436",
-          "title": "AI Infra 平台研发实习生",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "中高级",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "团队使命 面向大模型训练与推理，集群资源调度、高性能网络，以及集群与模型的协同设计，是释放算力潜能、提升 AI 基础设施整体效率与稳定性的关键。我们致力于将复杂的底层基础设施转化为高效、可靠、易用的算力服务，让每一份算力得到更充分、更高效的",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7699747334557190436",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-10-23",
-            "snapshotDate": "2026-10-29",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7699757269604944169",
           "title": "算力平台（资源管理与可靠性方向）-2027届",
           "salary": "官方未公开",
@@ -5215,6 +5176,45 @@
           ],
           "questionFocus": [
             "正式",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7699747334557190436",
+          "title": "AI Infra 平台研发实习生",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "团队使命 面向大模型训练与推理，集群资源调度、高性能网络，以及集群与模型的协同设计，是释放算力潜能、提升 AI 基础设施整体效率与稳定性的关键。我们致力于将复杂的底层基础设施转化为高效、可靠、易用的算力服务，让每一份算力得到更充分、更高效的",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7699747334557190436",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-10-23",
+            "snapshotDate": "2026-10-29",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
             "校招",
             "大模型",
             "算法研究",
