@@ -5027,45 +5027,6 @@
           ]
         },
         {
-          "id": "mm_7638320102106040627",
-          "title": "10x Team 研究员",
-          "salary": "官方未公开",
-          "location": "北京/上海/中国香港/旧金山/伦敦",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略"
-          ],
-          "description": "关于 10x Team 我们正在组建 10x Team，一支汇聚各领域顶尖人才的团队。 过去几年，大模型在通用能力上完成了一次 10 倍跃迁。我们相信，同样的 10 倍变化也正在每一个具体行业中发生：当一个领域真正与世界级 AI 能力相遇，",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7638320102106040627",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-10",
-            "snapshotDate": "2026-11-03",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "engineering",
-            "algo_rl"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "Agent",
-            "大模型",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7700908077414926618",
           "title": "大模型算法工程师-Midtrain Agentic数据方向-日常实习",
           "salary": "官方未公开",
