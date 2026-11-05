@@ -5105,6 +5105,45 @@
           ]
         },
         {
+          "id": "mm_7637054653180021038",
+          "title": "大模型推理研发实习生",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "1. 参与大模型推理框架 设计与研发，优化核心模块性能与系统效率； 2. 进行 高性能算子 的设计与实现，探索计算图与算子融合、内存布局优化等方向； 3. 在真实系统中验证模型推理的性能极限。",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7637054653180021038",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-07",
+            "snapshotDate": "2026-11-05",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7700908077414926618",
           "title": "大模型算法工程师-Midtrain Agentic数据方向-日常实习",
           "salary": "官方未公开",
@@ -7747,45 +7786,6 @@
             "大模型",
             "算法研究",
             "基础设施",
-            "工程实现"
-          ]
-        },
-        {
-          "id": "mm_7497098391874668836",
-          "title": "大模型算法工程师-实习-TOP Talent",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "视觉多模态"
-          ],
-          "description": "研发超大规模基础模型，并进行极致的系统优化。 研究方向：大语言模型；下一代统一多模态系统；视频生成模型；声音模型；算法工程co- design；",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497098391874668836",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-11-05",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "engineering",
-            "algo_rl",
-            "system",
-            "behavior"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "视觉多模态",
             "工程实现"
           ]
         }
