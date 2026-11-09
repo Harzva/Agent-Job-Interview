@@ -3516,45 +3516,6 @@
           ]
         },
         {
-          "id": "mm_7694877451201841449",
-          "title": "测试工程师（Agent方向）",
-          "salary": "官方未公开",
-          "location": "上海",
-          "level": "中高级",
-          "tags": [
-            "外包",
-            "社招",
-            "Agent",
-            "大模型",
-            "测试开发"
-          ],
-          "description": "该岗位为Mcode desktop测试主力同学，保障Mcode全端日常需求测试工作，负责Mcode核心业务质量保障： 1. 负责国内/海外，Mcode 产品版本迭代质量保障工作，探索Mcode产品能力边界； 2. 基于AI Agent 能力",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7694877451201841449",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-10-10",
-            "snapshotDate": "2026-11-09",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "外包",
-            "社招",
-            "Agent",
-            "大模型",
-            "测试开发",
-            "产品策略"
-          ]
-        },
-        {
           "id": "mm_7694583567699446026",
           "title": "大模型效率研究员-模型结构方向",
           "salary": "官方未公开",
@@ -5106,6 +5067,84 @@
             "大模型",
             "算法研究",
             "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7637362947051751707",
+          "title": "大模型技术PM",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "开放岗位",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "产品策略"
+          ],
+          "description": "1. 针对大模型时代各类模型内外需求, 负责模型落地过程中的产品与工程设计、需求对接与排期等。 2. 从模型效果侧出发，优化整体系统架构。 3. 构建大模型原生的大规模基建和系统。 4. 推动基于大模型的MAAS系统设计&搭建。 5. 针对",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7637362947051751707",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-08",
+            "snapshotDate": "2026-11-09",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "product",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "产品策略",
+            "需求拆解"
+          ]
+        },
+        {
+          "id": "mm_7706074101584824614",
+          "title": "大模型数据算法-金融方向实习生",
+          "salary": "官方未公开",
+          "location": "北京",
+          "level": "开放岗位",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "我们正在寻找对大模型数据、技术、智能系统和复杂专业场景应用感兴趣的硕士、博士生，参与大模型的数据算法研究与系统落地，聚焦金融工作能力提升。你将有机会围绕模型训练、推理增强、Agent 工作流和能力评测等方向开展研究，探索大模型在真实业务与专",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7706074101584824614",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-09",
+            "snapshotDate": "2026-11-09",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
             "数据闭环"
           ]
         },
@@ -7791,45 +7830,6 @@
             "大模型",
             "算法研究",
             "基础设施",
-            "工程实现"
-          ]
-        },
-        {
-          "id": "mm_7497098391874668836",
-          "title": "大模型算法工程师-实习-TOP Talent",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "视觉多模态"
-          ],
-          "description": "研发超大规模基础模型，并进行极致的系统优化。 研究方向：大语言模型；下一代统一多模态系统；视频生成模型；声音模型；算法工程co- design；",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7497098391874668836",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-04-25",
-            "snapshotDate": "2026-11-09",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "engineering",
-            "algo_rl",
-            "system",
-            "behavior"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "视觉多模态",
             "工程实现"
           ]
         }
