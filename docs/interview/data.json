@@ -3902,6 +3902,45 @@
           ]
         },
         {
+          "id": "mm_7676160201309964585",
+          "title": "游戏方向负责人（模型后训练）",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "我们希望提升大模型理解和完成游戏开发任务的能力，让模型真正参与玩法设计、原型开发、内容生产、调试与迭代。 你将作为游戏领域负责人，把游戏工业经验转化为模型可学习、可训练、可评测的能力，并持续通过真实开发验证模型效果。 你将负责 1）定义模型",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7676160201309964585",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-08-20",
+            "snapshotDate": "2026-11-10",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7675569100701518122",
           "title": "高可用架构师",
           "salary": "官方未公开",
@@ -5071,45 +5110,6 @@
           ]
         },
         {
-          "id": "mm_7637362947051751707",
-          "title": "大模型技术PM",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "产品策略"
-          ],
-          "description": "1. 针对大模型时代各类模型内外需求, 负责模型落地过程中的产品与工程设计、需求对接与排期等。 2. 从模型效果侧出发，优化整体系统架构。 3. 构建大模型原生的大规模基建和系统。 4. 推动基于大模型的MAAS系统设计&搭建。 5. 针对",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7637362947051751707",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-05-08",
-            "snapshotDate": "2026-11-10",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "product",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "产品策略",
-            "需求拆解"
-          ]
-        },
-        {
           "id": "mm_7706074101584824614",
           "title": "大模型数据算法-金融方向实习生",
           "salary": "官方未公开",
@@ -5188,84 +5188,6 @@
           ]
         },
         {
-          "id": "mm_7705247320660887844",
-          "title": "训练框架实习生-多模态生成方向-2028 届",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "- 更长的视频、更高的分辨率，以及多模态生成模型的 RL 后训练，都需要更高效的训练系统。 - 你将参与 MiniMax 多模态生成训练框架研发，深入分布式训练、GPU 性能优化和 RL 训推协同，让模型实验跑得更快、更稳，支持算法团队验证",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7705247320660887844",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-11-07",
-            "snapshotDate": "2026-11-10",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7705026511196113203",
-          "title": "大模型推理研发实习生-2028 届",
-          "salary": "官方未公开",
-          "location": "上海/北京",
-          "level": "中高级",
-          "tags": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "算法研究"
-          ],
-          "description": "- 长上下文、多模态和 Agent，让模型推理面对更复杂的计算和服务需求。 - 你将参与 MiniMax 从 GPU 算子、推理框架到在线 Serving 的研发与优化，把 kernel 上的加速转化为实际服务的低延迟、高吞吐与更低成本。可",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7705026511196113203",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-11-07",
-            "snapshotDate": "2026-11-10",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "Agent",
-            "大模型",
-            "算法研究",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7705011825713613106",
           "title": "Ai infra 实习生-2028 届",
           "salary": "官方未公开",
@@ -5340,6 +5262,84 @@
             "大模型",
             "数据策略",
             "基础设施",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7705247320660887844",
+          "title": "训练框架实习生-多模态生成方向-2028 届",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "开放岗位",
+          "tags": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "- 更长的视频、更高的分辨率，以及多模态生成模型的 RL 后训练，都需要更高效的训练系统。 - 你将参与 MiniMax 多模态生成训练框架研发，深入分布式训练、GPU 性能优化和 RL 训推协同，让模型实验跑得更快、更稳，支持算法团队验证",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7705247320660887844",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-07",
+            "snapshotDate": "2026-11-10",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7705026511196113203",
+          "title": "大模型推理研发实习生-2028 届",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "- 长上下文、多模态和 Agent，让模型推理面对更复杂的计算和服务需求。 - 你将参与 MiniMax 从 GPU 算子、推理框架到在线 Serving 的研发与优化，把 kernel 上的加速转化为实际服务的低延迟、高吞吐与更低成本。可",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7705026511196113203",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-07",
+            "snapshotDate": "2026-11-10",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
             "数据闭环"
           ]
         },
