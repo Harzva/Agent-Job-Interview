@@ -2970,6 +2970,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7706755326892198195",
+          "title": "大模型算法工程师-具身方向",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "你将参与 MiniMax 面向具身智能的「大脑」研发，让模型从图像、视频和语言中理解空间关系与状态变化，将用户目标拆解为可执行的步骤，并根据环境反馈调整计划。现阶段，研究与验证主要在数字环境中开展。 1. 研发面向具身任务的多模态大模型，提",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7706755326892198195",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-11",
+            "snapshotDate": "2026-11-11",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7703546588224211263",
           "title": "RL 训练与推理工程师-多模态生成方向",
           "salary": "官方未公开",
