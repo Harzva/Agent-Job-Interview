@@ -3477,45 +3477,6 @@
           ]
         },
         {
-          "id": "mm_7696444820051298596",
-          "title": "大模型数据基地负责人",
-          "salary": "官方未公开",
-          "location": "成都",
-          "level": "高级",
-          "tags": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "负责基地整体运营，统筹产能、人员与项目排期，对数据交付的质量、效率和成本负责。 对接算法及业务团队，将大模型训练与评测需求转化为标注规范、生产流程和验收标准。 接安全团队，将内容安全需求转化为安全规范、生产流程和验收标准。 负责团队招聘、培",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 社招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7696444820051298596",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2026-10-14",
-            "snapshotDate": "2026-11-18",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "product",
-            "algo_rl",
-            "behavior"
-          ],
-          "questionFocus": [
-            "全职",
-            "社招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
           "id": "mm_7696412591447509291",
           "title": "AI Infra 存储高级研发工程师",
           "salary": "官方未公开",
@@ -5107,6 +5068,44 @@
             "算法研究",
             "产品策略",
             "需求拆解"
+          ]
+        },
+        {
+          "id": "mm_7636745615666727209",
+          "title": "TPM, Research & Engineering",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "开放岗位",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "关于这个角色： 你将深度嵌入 MiniMax 的 Research & Engineering 组织，覆盖预训练、后训练、对齐、推理优化、评估体系等多个方向。这是一个 0-to-1 的角色——你需要关于这个角色： 1. 你将深度嵌入 Min",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7636745615666727209",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-05-06",
+            "snapshotDate": "2026-11-18",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "数据策略",
+            "数据闭环",
+            "评测体系"
           ]
         },
         {
