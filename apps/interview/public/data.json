@@ -5179,6 +5179,162 @@
           ]
         },
         {
+          "id": "mm_7631108359181175049",
+          "title": "AI系统研发工程师（云原生方向）",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略"
+          ],
+          "description": "- 参与建设和维护 AI Infra 相关的平台系统，包括但不限于 CMDB（配置管理数据库）、流程引擎、工单系统、故障流转系统、业务资源平台、底层资产平台等； - 负责平台系统的架构设计、核心模块研发、性能优化与可扩展性改造，提升系统稳定",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7631108359181175049",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-04-21",
+            "snapshotDate": "2026-11-23",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "大模型",
+            "算法研究",
+            "数据策略",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7711270034727913791",
+          "title": "大模型算法工程师-后训练-日常实习",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "1.参与 MiniMax 大模型后训练算法研究，探索 SFT、RL、Reward Modeling、数据合成等技术，持续推动模型能力向 Frontier 突破。 2.围绕 Code、Agent、Computer Use、Deep Resea",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7711270034727913791",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-23",
+            "snapshotDate": "2026-11-23",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7711269970505042230",
+          "title": "大模型算法工程师-后训练-2028届实习",
+          "salary": "官方未公开",
+          "location": "上海/北京",
+          "level": "中高级",
+          "tags": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "1.参与 MiniMax 大模型后训练算法研究，探索 SFT、RL、Reward Modeling、数据合成等技术，持续推动模型能力向 Frontier 突破。 2.围绕 Code、Agent、Computer Use、Deep Resea",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7711269970505042230",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-23",
+            "snapshotDate": "2026-11-23",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "实习",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
+          "id": "mm_7711268974563133734",
+          "title": "大模型算法工程师-后训练-2027届",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "1.参与 MiniMax 大模型后训练算法研究，探索 SFT、RL、Reward Modeling、数据合成等技术，持续推动模型能力向 Frontier 突破。 2.围绕 Code、Agent、Computer Use、Deep Resea",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7711268974563133734",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-23",
+            "snapshotDate": "2026-11-23",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7709452370371365183",
           "title": "GPU 集群服务器工程师-2027届",
           "salary": "官方未公开",
@@ -7782,84 +7938,6 @@
             "基础设施",
             "工程实现",
             "系统落地"
-          ]
-        },
-        {
-          "id": "mm_7505309900911053065",
-          "title": "机器学习系统研发实习生",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "正式",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略"
-          ],
-          "description": "1. 参与 MiniMax 机器学习平台的研发，设计和实现机器学习相关的基础设施/算法框架/工具链等，关注机器学习研发过程的稳定性、资源利用率等问题； 2. 基于机器学习系统、云原生、云计算架构等多个角度做技术问题解决和探索； 3. 覆盖机",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7505309900911053065",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-05-17",
-            "snapshotDate": "2026-11-23",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "正式",
-            "校招",
-            "大模型",
-            "算法研究",
-            "数据策略",
-            "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7498620518880446747",
-          "title": "AI system 研发实习生",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "中高级",
-          "tags": [
-            "实习",
-            "校招",
-            "算法研究",
-            "数据策略",
-            "测试开发"
-          ],
-          "description": "加入AI基础设施团队，你将在导师指导下参与核心平台系统的学习和实践： 1. 参与平台建设： 协助开发与维护CMDB、工单系统、流程引擎等AI Infra关键平台。 2. 开发实践： 参与功能模块开发、测试及基础性能调优，提升代码质量。 3.",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7498620518880446747",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-04-29",
-            "snapshotDate": "2026-11-23",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "data_strategy",
-            "engineering",
-            "algo_rl",
-            "system"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "算法研究",
-            "数据策略",
-            "测试开发",
-            "数据闭环"
           ]
         }
       ],
