@@ -3075,6 +3075,45 @@
       "gradient": "from-[#DE1F84] to-[#FD6F32]",
       "jobs": [
         {
+          "id": "mm_7712674789756782858",
+          "title": "数据安全研发工程师",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究"
+          ],
+          "description": "团队简介 我们正在组建一支 AI 安全团队，使命是把顶尖的安全能力与大模型深度结合：一方面攻克高价值的安全难题，将专家经验沉淀为数据、Benchmark 与自动化框架，持续提升基础模型的网络安全能力；另一方面将这些能力落地到真实业务场景，守",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 社招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/index/position/detail/7712674789756782858",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-27",
+            "snapshotDate": "2026-11-27",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "product",
+            "engineering",
+            "algo_rl"
+          ],
+          "questionFocus": [
+            "全职",
+            "社招",
+            "Agent",
+            "大模型",
+            "算法研究",
+            "数据闭环"
+          ]
+        },
+        {
           "id": "mm_7706816033893615935",
           "title": "AI for 逆向研究员",
           "salary": "官方未公开",
@@ -5173,6 +5212,45 @@
             "算法研究",
             "产品策略",
             "需求拆解"
+          ]
+        },
+        {
+          "id": "mm_7712681025038174483",
+          "title": "AI Infra 智能运维研发实习生",
+          "salary": "官方未公开",
+          "location": "北京/上海",
+          "level": "中高级",
+          "tags": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "数据策略"
+          ],
+          "description": "加入 MiniMax 基础架构团队，参与变更平台、代码平台、压测平台及基础组件的开发与维护，建设全链路容量性能体系能力，建设由研发智能体和运维智能体组成的 Agent Team。你将把智能体接入真实的研发和运维流程，缩短基础平台从需求到上线",
+          "source": {
+            "company": "MiniMax",
+            "sourceName": "MiniMax 校招官网（飞书）",
+            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7712681025038174483",
+            "evidenceUrl": "https://www.minimaxi.com/careers",
+            "firstSeenAt": "2026-11-27",
+            "snapshotDate": "2026-11-27",
+            "status": "open",
+            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
+          },
+          "questionCategories": [
+            "data_strategy",
+            "engineering",
+            "algo_rl",
+            "system"
+          ],
+          "questionFocus": [
+            "正式",
+            "校招",
+            "Agent",
+            "大模型",
+            "数据策略",
+            "数据闭环"
           ]
         },
         {
@@ -7858,44 +7936,6 @@
             "数据策略",
             "全栈",
             "数据闭环"
-          ]
-        },
-        {
-          "id": "mm_7508644072077674778",
-          "title": "服务器系统实习生",
-          "salary": "官方未公开",
-          "location": "北京/上海",
-          "level": "开放岗位",
-          "tags": [
-            "实习",
-            "校招",
-            "大模型",
-            "基础设施"
-          ],
-          "description": "1. 参与公司基础架构的设计与实现，包括但不限于集群建设、网络治理、系统调优等； 2. 协助优化业务使用体验，定位和解决高并发场景下的性能瓶颈和稳定性问题； 3. 参与AI基础设施建设，包括模型训练框架优化、推理服务部署、异构计算资源调度等",
-          "source": {
-            "company": "MiniMax",
-            "sourceName": "MiniMax 校招官网（飞书）",
-            "sourceUrl": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/detail/7508644072077674778",
-            "evidenceUrl": "https://www.minimaxi.com/careers",
-            "firstSeenAt": "2025-05-26",
-            "snapshotDate": "2026-11-27",
-            "status": "open",
-            "note": "岗位由 GitHub Actions 从 MiniMax 官方招聘页及其飞书招聘站同步；岗位状态、薪资和 JD 细节以官方页面为准。"
-          },
-          "questionCategories": [
-            "engineering",
-            "algo_rl",
-            "system",
-            "behavior"
-          ],
-          "questionFocus": [
-            "实习",
-            "校招",
-            "大模型",
-            "基础设施",
-            "工程实现",
-            "系统落地"
           ]
         }
       ],
